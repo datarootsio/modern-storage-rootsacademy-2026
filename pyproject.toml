@@ -24,7 +24,7 @@ dependencies = [
 # Not used by anything in the workshop. Kept only so this file stays in step with
 # uv.lock -- the container builds with `uv sync --frozen`, which fails if the two
 # disagree. The build passes --no-dev, so it is never installed.
-dev = ["pyarrow==18.1.0"]
+dev = ["pyarrow==23.0.1"]
 
 [tool.uv]
 # Install dependencies only, never the project itself. A self-install would be
