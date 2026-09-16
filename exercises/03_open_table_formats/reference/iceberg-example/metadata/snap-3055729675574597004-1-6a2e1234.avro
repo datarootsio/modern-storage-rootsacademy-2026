@@ -1,0 +1,9 @@
+<< binary Avro -- shown as text so you can see what sits here >>
+
+This is the "manifest list" for one snapshot. One row per manifest file:
+
+  manifest_path                                     added_files  existing_files  deleted_files
+  metadata/6a2e1234-m0.avro                         1            2               1
+
+It does not list data files directly. It lists the manifests that do, together with
+partition value ranges, so a query can skip whole manifests before opening them.

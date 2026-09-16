@@ -1,0 +1,22 @@
+# Your storage credentials. Never commit these.
+.env
+
+# Facilitators run the token script from the main branch, but its output lands
+# here on disk and survives a branch switch. Keeping this rule on the participant
+# branch too stops a `git add -A` from committing 21 live SAS tokens.
+infra/output/
+
+# Local Spark / Delta scratch
+_local_lake/
+spark-warehouse/
+metastore_db/
+derby.log
+
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/

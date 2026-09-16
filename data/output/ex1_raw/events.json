@@ -1,0 +1,1200 @@
+{"event_id": "EV-000000", "event_type": "checkout_start", "ts": "2026-03-08T22:18:00Z", "user": {"id": "C082"}, "page": "/checkout"}
+{"event_id": "EV-000001", "event_type": "remove_from_cart", "ts": "2026-03-04T04:39:00Z", "customer_id": "C187", "page": "/sale"}
+{"event_id": "EV-000002", "event_type": "search", "ts": "2026-03-06T07:45:00Z", "user": {"id": "C001"}, "page": "/sale", "query": "rain jacket"}
+{"event_id": "EV-000003", "event_type": "checkout_start", "ts": "2026-03-03T19:26:00Z", "customer_id": "C090", "page": "/packs/45l"}
+{"event_id": "EV-000004", "event_type": "search", "ts": "2026-03-07T06:44:00Z", "customer_id": "C018", "page": "/checkout", "query": "wool socks"}
+{"event_id": "EV-000005", "event_type": "search", "ts": "2026-03-02T21:21:00Z", "customer_id": "C146", "page": "/", "query": "2p tent"}
+{"event_id": "EV-000006", "event_type": "checkout_start", "ts": "2026-03-08T10:59:00Z", "user": {"id": "C010"}, "page": "/sale"}
+{"event_id": "EV-000007", "event_type": "search", "ts": "2026-03-05T17:57:00Z", "customer_id": "C106", "query": "rain jacket"}
+{"event_id": "EV-000008", "event_type": "search", "ts": "2026-03-04T18:46:00Z", "user": {"id": "C005"}, "page": "/packs/45l", "query": "wool socks"}
+{"event_id": "EV-000009", "event_type": "add_to_cart", "ts": "2026-03-08T11:04:00Z", "customer_id": "C008", "page": "/sale"}
+{"event_id": "EV-000010", "event_type": "remove_from_cart", "ts": "2026-03-08T05:36:00Z", "customer_id": "C153", "page": "/tents/2p"}
+{"event_id": "EV-000011", "event_type": "search", "ts": "2026-03-04T22:02:00Z", "customer_id": "C128", "query": "wool socks"}
+{"event_id": "EV-000012", "event_type": "search", "ts": "2026-03-04T06:33:00Z", "customer_id": "C096", "page": "/boots", "query": "rain jacket"}
+{"event_id": "EV-000013", "event_type": "remove_from_cart", "ts": "2026-03-02T15:57:00Z", "customer_id": "C088"}
+{"event_id": "EV-000014", "event_type": "search", "ts": "2026-03-06T09:49:00Z", "customer_id": "C026", "query": "2p tent"}
+{"event_id": "EV-000015", "event_type": "remove_from_cart", "ts": "2026-03-02T14:24:00Z", "customer_id": "C080"}
+{"event_id": "EV-000016", "event_type": "checkout_start", "ts": "2026-03-06T02:21:00Z", "user": {"id": "C027"}, "page": "/packs/45l"}
+{"event_id": "EV-000017", "event_type": "search", "ts": "2026-03-02T18:48:00Z", "user": {"id": "C054"}, "page": "/boots", "query": "wool socks"}
+{"event_id": "EV-000018", "event_type": "page_view", "ts": "2026-03-04T14:42:00Z", "customer_id": "C041", "page": "/"}
+{"event_id": "EV-000019", "event_type": "add_to_cart", "ts": "2026-03-06T16:06:00Z", "user": {"id": "C141"}, "page": "/boots"}
+{"event_id": "EV-000020", "event_type": "add_to_cart", "ts": "2026-03-08T09:36:00Z", "customer_id": "C080", "page": "/tents/2p"}
+{"event_id": "EV-000021", "event_type": "checkout_start", "ts": "2026-03-02T04:01:00Z", "user": {"id": "C013"}, "page": "/", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000022", "event_type": "remove_from_cart", "ts": "2026-03-03T22:38:00Z", "user": {"id": "C177"}, "page": "/checkout"}
+{"event_id": "EV-000023", "event_type": "remove_from_cart", "ts": "2026-03-04T06:45:00Z", "customer_id": "C194", "page": "/checkout", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000024", "event_type": "checkout_start", "ts": "2026-03-02T14:19:00Z", "customer_id": "C058", "page": "/checkout"}
+{"event_id": "EV-000025", "event_type": "search", "ts": "2026-03-04T12:11:00Z", "user": {"id": "C084"}, "page": "/", "query": "rain jacket"}
+{"event_id": "EV-000026", "event_type": "add_to_cart", "ts": "2026-03-04T15:29:00Z", "customer_id": "C090", "page": "/boots"}
+{"event_id": "EV-000027", "event_type": "page_view", "ts": "2026-03-05T22:50:00Z", "customer_id": "C167", "page": "/tents/2p"}
+{"event_id": "EV-000028", "event_type": "add_to_cart", "ts": "2026-03-05T18:26:00Z", "user": {"id": "C141"}, "page": "/sale"}
+{"event_id": "EV-000029", "event_type": "remove_from_cart", "ts": "2026-03-04T06:52:00Z", "customer_id": "C112", "page": "/tents/2p"}
+{"event_id": "EV-000030", "event_type": "page_view", "ts": "2026-03-03T05:42:00Z", "user": {"id": "C183"}, "page": "/sale", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000031", "event_type": "checkout_start", "ts": "2026-03-04T17:06:00Z", "customer_id": "C104", "page": "/"}
+{"event_id": "EV-000032", "event_type": "checkout_start", "ts": "2026-03-06T12:20:00Z", "user": {"id": "C016"}, "page": "/boots"}
+{"event_id": "EV-000033", "event_type": "page_view", "ts": "2026-03-08T20:51:00Z", "user": {"id": "C170"}, "page": "/checkout"}
+{"event_id": "EV-000034", "event_type": "add_to_cart", "ts": "2026-03-06T18:28:00Z", "customer_id": "C082", "page": "/packs/45l"}
+{"event_id": "EV-000035", "event_type": "search", "ts": "2026-03-05T22:58:00Z", "user": {"id": "C150"}, "page": "/checkout", "query": "45l pack"}
+{"event_id": "EV-000036", "event_type": "search", "ts": "2026-03-08T09:03:00Z", "user": {"id": "C014"}, "page": "/checkout", "query": "wool socks", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000037", "event_type": "checkout_start", "ts": "2026-03-08T00:15:00Z", "user": {"id": "C101"}, "page": "/packs/45l"}
+{"event_id": "EV-000038", "event_type": "add_to_cart", "ts": "2026-03-05T13:34:00Z", "user": {"id": "C122"}, "page": "/checkout"}
+{"event_id": "EV-000039", "event_type": "search", "ts": "2026-03-04T13:09:00Z", "user": {"id": "C172"}, "page": "/", "query": "rain jacket"}
+{"event_id": "EV-000040", "event_type": "checkout_start", "ts": "2026-03-03T23:56:00Z", "user": {"id": "C035"}, "page": "/packs/45l"}
+{"event_id": "EV-000041", "event_type": "remove_from_cart", "ts": "2026-03-08T14:57:00Z", "user": {"id": "C160"}, "page": "/checkout"}
+{"event_id": "EV-000042", "event_type": "search", "ts": "2026-03-08T14:24:00Z", "customer_id": "C109", "page": "/checkout", "query": "45l pack"}
+{"event_id": "EV-000043", "event_type": "search", "ts": "2026-03-03T22:32:00Z", "customer_id": "C140", "page": "/", "query": "rain jacket"}
+{"event_id": "EV-000044", "event_type": "remove_from_cart", "ts": "2026-03-07T11:07:00Z", "customer_id": "C177", "page": "/packs/45l"}
+{"event_id": "EV-000045", "event_type": "remove_from_cart", "ts": "2026-03-08T08:29:00Z", "customer_id": "C157", "page": "/sale"}
+{"event_id": "EV-000046", "event_type": "remove_from_cart", "ts": "2026-03-07T21:04:00Z", "user": {"id": "C080"}, "page": "/tents/2p"}
+{"event_id": "EV-000047", "event_type": "remove_from_cart", "ts": "2026-03-02T15:29:00Z", "user": {"id": "C147"}, "page": "/sale"}
+{"event_id": "EV-000048", "event_type": "add_to_cart", "ts": "2026-03-08T09:18:00Z", "customer_id": "C153", "page": "/packs/45l"}
+{"event_id": "EV-000049", "event_type": "checkout_start", "ts": "2026-03-04T01:40:00Z", "user": {"id": "C147"}, "page": "/tents/2p"}
+{"event_id": "EV-000050", "event_type": "checkout_start", "ts": "2026-03-06T00:18:00Z", "customer_id": "C130", "page": "/tents/2p"}
+{"event_id": "EV-000051", "event_type": "search", "ts": "2026-03-06T08:17:00Z", "customer_id": "C029", "page": "/checkout", "query": "2p tent"}
+{"event_id": "EV-000052", "event_type": "add_to_cart", "ts": "2026-03-04T05:16:00Z", "customer_id": "C136"}
+{"event_id": "EV-000053", "event_type": "add_to_cart", "ts": "2026-03-02T04:38:00Z", "user": {"id": "C193"}}
+{"event_id": "EV-000054", "event_type": "add_to_cart", "ts": "2026-03-03T21:28:00Z", "customer_id": "C188", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000055", "event_type": "add_to_cart", "ts": "2026-03-08T03:03:00Z", "customer_id": "C122", "page": "/packs/45l"}
+{"event_id": "EV-000056", "event_type": "checkout_start", "ts": "2026-03-06T07:24:00Z", "customer_id": "C038", "page": "/sale", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000057", "event_type": "remove_from_cart", "ts": "2026-03-05T21:20:00Z", "user": {"id": "C011"}, "page": "/checkout"}
+{"event_id": "EV-000058", "event_type": "search", "ts": "2026-03-08T13:39:00Z", "customer_id": "C069", "query": "wool socks"}
+{"event_id": "EV-000059", "event_type": "add_to_cart", "ts": "2026-03-05T14:49:00Z", "user": {"id": "C151"}, "page": "/checkout"}
+{"event_id": "EV-000060", "event_type": "remove_from_cart", "ts": "2026-03-07T05:20:00Z", "customer_id": "C003", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000061", "event_type": "checkout_start", "ts": "2026-03-06T03:43:00Z", "customer_id": "C186", "page": "/boots", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000062", "event_type": "add_to_cart", "ts": "2026-03-02T19:42:00Z", "user": {"id": "C164"}, "page": "/", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000063", "event_type": "remove_from_cart", "ts": "2026-03-05T21:48:00Z", "user": {"id": "C048"}}
+{"event_id": "EV-000064", "event_type": "page_view", "ts": "2026-03-04T09:29:00Z", "user": {"id": "C071"}, "page": "/packs/45l"}
+{"event_id": "EV-000065", "event_type": "add_to_cart", "ts": "2026-03-08T10:16:00Z", "user": {"id": "C071"}, "page": "/sale"}
+{"event_id": "EV-000066", "event_type": "search", "ts": "2026-03-02T08:52:00Z", "customer_id": "C018", "page": "/boots", "query": "45l pack"}
+{"event_id": "EV-000067", "event_type": "remove_from_cart", "ts": "2026-03-05T03:09:00Z", "user": {"id": "C056"}, "page": "/"}
+{"event_id": "EV-000068", "event_type": "page_view", "ts": "2026-03-07T08:06:00Z", "customer_id": "C147", "page": "/sale", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000069", "event_type": "page_view", "ts": "2026-03-03T20:40:00Z", "user": {"id": "C171"}, "page": "/boots"}
+{"event_id": "EV-000070", "event_type": "remove_from_cart", "ts": "2026-03-05T18:00:00Z", "user": {"id": "C198"}, "page": "/sale"}
+{"event_id": "EV-000071", "event_type": "add_to_cart", "ts": "2026-03-07T02:34:00Z", "customer_id": "C177"}
+{"event_id": "EV-000072", "event_type": "search", "ts": "2026-03-06T17:59:00Z", "customer_id": "C078", "page": "/packs/45l", "query": "rain jacket"}
+{"event_id": "EV-000073", "event_type": "checkout_start", "ts": "2026-03-08T10:05:00Z", "user": {"id": "C075"}, "page": "/boots"}
+{"event_id": "EV-000074", "event_type": "search", "ts": "2026-03-05T21:12:00Z", "user": {"id": "C028"}, "page": "/tents/2p", "query": "45l pack", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000075", "event_type": "page_view", "ts": "2026-03-07T06:08:00Z", "customer_id": "C185"}
+{"event_id": "EV-000076", "event_type": "remove_from_cart", "ts": "2026-03-05T02:50:00Z", "user": {"id": "C128"}, "page": "/sale"}
+{"event_id": "EV-000077", "event_type": "page_view", "ts": "2026-03-02T01:21:00Z", "customer_id": "C185", "page": "/"}
+{"event_id": "EV-000078", "event_type": "checkout_start", "ts": "2026-03-07T21:33:00Z", "user": {"id": "C138"}, "page": "/checkout"}
+{"event_id": "EV-000079", "event_type": "add_to_cart", "ts": "2026-03-02T01:47:00Z", "customer_id": "C005", "page": "/checkout", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000080", "event_type": "page_view", "ts": "2026-03-02T05:40:00Z", "user": {"id": "C025"}, "page": "/boots"}
+{"event_id": "EV-000081", "event_type": "checkout_start", "ts": "2026-03-02T03:07:00Z", "user": {"id": "C158"}, "page": "/boots"}
+{"event_id": "EV-000082", "event_type": "checkout_start", "ts": "2026-03-08T23:43:00Z", "customer_id": "C176", "page": "/boots"}
+{"event_id": "EV-000083", "event_type": "page_view", "ts": "2026-03-08T06:48:00Z", "user": {"id": "C086"}, "page": "/tents/2p", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000084", "event_type": "remove_from_cart", "ts": "2026-03-03T22:23:00Z", "customer_id": "C063", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000085", "event_type": "checkout_start", "ts": "2026-03-08T20:39:00Z", "user": {"id": "C005"}, "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000086", "event_type": "remove_from_cart", "ts": "2026-03-03T02:45:00Z", "user": {"id": "C107"}, "page": "/sale"}
+{"event_id": "EV-000087", "event_type": "search", "ts": "2026-03-03T04:40:00Z", "user": {"id": "C106"}, "page": "/boots", "query": "rain jacket"}
+{"event_id": "EV-000088", "event_type": "page_view", "ts": "2026-03-07T15:39:00Z", "user": {"id": "C078"}, "page": "/"}
+{"event_id": "EV-000089", "event_type": "page_view", "ts": "2026-03-03T03:33:00Z", "user": {"id": "C195"}}
+{"event_id": "EV-000090", "event_type": "add_to_cart", "ts": "2026-03-05T20:42:00Z", "customer_id": "C050", "page": "/boots"}
+{"event_id": "EV-000091", "event_type": "add_to_cart", "ts": "2026-03-05T15:11:00Z", "user": {"id": "C012"}, "page": "/tents/2p"}
+{"event_id": "EV-000092", "event_type": "remove_from_cart", "ts": "2026-03-05T08:21:00Z", "user": {"id": "C195"}, "page": "/"}
+{"event_id": "EV-000093", "event_type": "page_view", "ts": "2026-03-06T05:10:00Z", "customer_id": "C030", "page": "/boots"}
+{"event_id": "EV-000094", "event_type": "checkout_start", "ts": "2026-03-06T18:20:00Z", "customer_id": "C174"}
+{"event_id": "EV-000095", "event_type": "page_view", "ts": "2026-03-02T10:14:00Z", "customer_id": "C106"}
+{"event_id": "EV-000096", "event_type": "remove_from_cart", "ts": "2026-03-03T02:30:00Z", "customer_id": "C112", "page": "/checkout"}
+{"event_id": "EV-000097", "event_type": "checkout_start", "ts": "2026-03-05T11:08:00Z", "user": {"id": "C162"}, "page": "/tents/2p"}
+{"event_id": "EV-000098", "event_type": "remove_from_cart", "ts": "2026-03-03T01:44:00Z", "customer_id": "C035", "page": "/sale"}
+{"event_id": "EV-000099", "event_type": "search", "ts": "2026-03-03T10:14:00Z", "user": {"id": "C164"}, "query": "2p tent"}
+{"event_id": "EV-000100", "event_type": "checkout_start", "ts": "2026-03-06T07:05:00Z", "user": {"id": "C126"}}
+{"event_id": "EV-000101", "event_type": "page_view", "ts": "2026-03-05T14:17:00Z", "user": {"id": "C189"}}
+{"event_id": "EV-000102", "event_type": "remove_from_cart", "ts": "2026-03-05T18:14:00Z", "user": {"id": "C147"}}
+{"event_id": "EV-000103", "event_type": "remove_from_cart", "ts": "2026-03-02T01:30:00Z", "customer_id": "C136", "page": "/packs/45l"}
+{"event_id": "EV-000104", "event_type": "page_view", "ts": "2026-03-05T15:15:00Z", "user": {"id": "C004"}, "page": "/sale"}
+{"event_id": "EV-000105", "event_type": "add_to_cart", "ts": "2026-03-03T11:18:00Z", "user": {"id": "C024"}, "page": "/packs/45l"}
+{"event_id": "EV-000106", "event_type": "remove_from_cart", "ts": "2026-03-07T14:54:00Z", "user": {"id": "C007"}}
+{"event_id": "EV-000107", "event_type": "add_to_cart", "ts": "2026-03-03T22:25:00Z", "user": {"id": "C095"}, "page": "/packs/45l"}
+{"event_id": "EV-000108", "event_type": "checkout_start", "ts": "2026-03-08T20:04:00Z", "user": {"id": "C086"}, "page": "/tents/2p"}
+{"event_id": "EV-000109", "event_type": "remove_from_cart", "ts": "2026-03-04T22:39:00Z", "user": {"id": "C054"}, "page": "/"}
+{"event_id": "EV-000110", "event_type": "page_view", "ts": "2026-03-04T23:59:00Z", "user": {"id": "C173"}, "page": "/", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000111", "event_type": "search", "ts": "2026-03-05T19:02:00Z", "customer_id": "C166", "page": "/", "query": "2p tent", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000112", "event_type": "checkout_start", "ts": "2026-03-03T17:07:00Z", "user": {"id": "C193"}, "page": "/packs/45l"}
+{"event_id": "EV-000113", "event_type": "search", "ts": "2026-03-07T07:20:00Z", "user": {"id": "C129"}, "page": "/tents/2p", "query": "rain jacket", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000114", "event_type": "remove_from_cart", "ts": "2026-03-05T15:32:00Z", "user": {"id": "C121"}, "page": "/packs/45l"}
+{"event_id": "EV-000115", "event_type": "search", "ts": "2026-03-04T14:39:00Z", "user": {"id": "C178"}, "query": "rain jacket"}
+{"event_id": "EV-000116", "event_type": "checkout_start", "ts": "2026-03-05T02:05:00Z", "user": {"id": "C074"}, "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000117", "event_type": "add_to_cart", "ts": "2026-03-04T03:44:00Z", "customer_id": "C053", "page": "/packs/45l", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000118", "event_type": "add_to_cart", "ts": "2026-03-07T17:59:00Z", "customer_id": "C108", "page": "/packs/45l", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000119", "event_type": "add_to_cart", "ts": "2026-03-02T00:55:00Z", "user": {"id": "C134"}, "page": "/sale"}
+{"event_id": "EV-000120", "event_type": "search", "ts": "2026-03-07T20:50:00Z", "customer_id": "C171", "page": "/checkout", "query": "45l pack"}
+{"event_id": "EV-000121", "event_type": "search", "ts": "2026-03-06T04:57:00Z", "customer_id": "C067", "page": "/tents/2p", "query": "wool socks"}
+{"event_id": "EV-000122", "event_type": "search", "ts": "2026-03-02T04:22:00Z", "customer_id": "C043", "page": "/boots", "query": "wool socks"}
+{"event_id": "EV-000123", "event_type": "add_to_cart", "ts": "2026-03-03T22:44:00Z", "customer_id": "C030", "page": "/tents/2p"}
+{"event_id": "EV-000124", "event_type": "add_to_cart", "ts": "2026-03-05T08:23:00Z", "customer_id": "C182", "page": "/tents/2p"}
+{"event_id": "EV-000125", "event_type": "remove_from_cart", "ts": "2026-03-03T11:28:00Z", "user": {"id": "C137"}, "page": "/"}
+{"event_id": "EV-000126", "event_type": "search", "ts": "2026-03-05T04:29:00Z", "customer_id": "C190", "page": "/checkout", "query": "wool socks"}
+{"event_id": "EV-000127", "event_type": "search", "ts": "2026-03-04T15:57:00Z", "user": {"id": "C194"}, "query": "2p tent"}
+{"event_id": "EV-000128", "event_type": "page_view", "ts": "2026-03-07T14:21:00Z", "user": {"id": "C011"}, "page": "/checkout", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000129", "event_type": "add_to_cart", "ts": "2026-03-05T19:53:00Z", "customer_id": "C024", "page": "/checkout"}
+{"event_id": "EV-000130", "event_type": "search", "ts": "2026-03-06T16:14:00Z", "customer_id": "C022", "page": "/sale", "query": "rain jacket"}
+{"event_id": "EV-000131", "event_type": "search", "ts": "2026-03-05T06:31:00Z", "user": {"id": "C131"}, "query": "wool socks"}
+{"event_id": "EV-000132", "event_type": "checkout_start", "ts": "2026-03-07T13:23:00Z", "customer_id": "C073", "page": "/tents/2p"}
+{"event_id": "EV-000133", "event_type": "add_to_cart", "ts": "2026-03-08T17:05:00Z", "user": {"id": "C114"}, "page": "/sale"}
+{"event_id": "EV-000134", "event_type": "checkout_start", "ts": "2026-03-04T05:51:00Z", "user": {"id": "C107"}, "page": "/checkout"}
+{"event_id": "EV-000135", "event_type": "checkout_start", "ts": "2026-03-03T06:19:00Z", "user": {"id": "C135"}, "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000136", "event_type": "search", "ts": "2026-03-02T00:26:00Z", "customer_id": "C143", "page": "/checkout", "query": "2p tent"}
+{"event_id": "EV-000137", "event_type": "remove_from_cart", "ts": "2026-03-08T12:18:00Z", "customer_id": "C078"}
+{"event_id": "EV-000138", "event_type": "add_to_cart", "ts": "2026-03-06T23:29:00Z", "customer_id": "C001", "page": "/tents/2p"}
+{"event_id": "EV-000139", "event_type": "page_view", "ts": "2026-03-08T20:30:00Z", "user": {"id": "C074"}, "page": "/sale"}
+{"event_id": "EV-000140", "event_type": "page_view", "ts": "2026-03-07T07:01:00Z", "user": {"id": "C127"}, "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000141", "event_type": "checkout_start", "ts": "2026-03-06T15:36:00Z", "user": {"id": "C161"}, "page": "/packs/45l"}
+{"event_id": "EV-000142", "event_type": "remove_from_cart", "ts": "2026-03-04T16:46:00Z", "customer_id": "C067", "page": "/", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000143", "event_type": "add_to_cart", "ts": "2026-03-07T04:22:00Z", "customer_id": "C093", "page": "/tents/2p", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000144", "event_type": "page_view", "ts": "2026-03-06T20:59:00Z", "user": {"id": "C197"}, "page": "/"}
+{"event_id": "EV-000145", "event_type": "search", "ts": "2026-03-03T17:20:00Z", "user": {"id": "C176"}, "page": "/tents/2p", "query": "wool socks", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000146", "event_type": "add_to_cart", "ts": "2026-03-08T04:00:00Z", "user": {"id": "C096"}, "page": "/sale"}
+{"event_id": "EV-000147", "event_type": "add_to_cart", "ts": "2026-03-03T03:13:00Z", "user": {"id": "C049"}, "page": "/checkout"}
+{"event_id": "EV-000148", "event_type": "remove_from_cart", "ts": "2026-03-08T16:54:00Z", "user": {"id": "C180"}, "page": "/"}
+{"event_id": "EV-000149", "event_type": "add_to_cart", "ts": "2026-03-02T03:52:00Z", "user": {"id": "C123"}, "page": "/packs/45l"}
+{"event_id": "EV-000150", "event_type": "remove_from_cart", "ts": "2026-03-08T14:56:00Z", "user": {"id": "C088"}, "page": "/tents/2p", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000151", "event_type": "add_to_cart", "ts": "2026-03-03T04:54:00Z", "user": {"id": "C079"}, "page": "/boots"}
+{"event_id": "EV-000152", "event_type": "page_view", "ts": "2026-03-05T22:48:00Z", "customer_id": "C199", "page": "/sale", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000153", "event_type": "remove_from_cart", "ts": "2026-03-02T21:32:00Z", "customer_id": "C031", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000154", "event_type": "page_view", "ts": "2026-03-07T00:48:00Z", "user": {"id": "C155"}, "page": "/boots"}
+{"event_id": "EV-000155", "event_type": "add_to_cart", "ts": "2026-03-04T00:05:00Z", "user": {"id": "C072"}}
+{"event_id": "EV-000156", "event_type": "remove_from_cart", "ts": "2026-03-03T16:49:00Z", "customer_id": "C146", "page": "/checkout"}
+{"event_id": "EV-000157", "event_type": "add_to_cart", "ts": "2026-03-06T06:45:00Z", "user": {"id": "C044"}}
+{"event_id": "EV-000158", "event_type": "add_to_cart", "ts": "2026-03-07T03:59:00Z", "user": {"id": "C182"}, "page": "/packs/45l"}
+{"event_id": "EV-000159", "event_type": "add_to_cart", "ts": "2026-03-05T21:06:00Z", "user": {"id": "C098"}, "page": "/checkout"}
+{"event_id": "EV-000160", "event_type": "checkout_start", "ts": "2026-03-02T10:07:00Z", "customer_id": "C035", "page": "/tents/2p"}
+{"event_id": "EV-000161", "event_type": "page_view", "ts": "2026-03-06T23:02:00Z", "customer_id": "C030", "page": "/sale"}
+{"event_id": "EV-000162", "event_type": "checkout_start", "ts": "2026-03-04T21:53:00Z", "customer_id": "C105", "page": "/sale"}
+{"event_id": "EV-000163", "event_type": "search", "ts": "2026-03-02T15:43:00Z", "customer_id": "C173", "page": "/", "query": "45l pack"}
+{"event_id": "EV-000164", "event_type": "page_view", "ts": "2026-03-07T21:05:00Z", "customer_id": "C103", "page": "/"}
+{"event_id": "EV-000165", "event_type": "add_to_cart", "ts": "2026-03-03T02:23:00Z", "customer_id": "C153"}
+{"event_id": "EV-000166", "event_type": "checkout_start", "ts": "2026-03-03T13:46:00Z", "customer_id": "C183", "page": "/checkout"}
+{"event_id": "EV-000167", "event_type": "search", "ts": "2026-03-08T20:25:00Z", "customer_id": "C155", "query": "45l pack"}
+{"event_id": "EV-000168", "event_type": "page_view", "ts": "2026-03-03T14:06:00Z", "customer_id": "C128", "page": "/boots", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000169", "event_type": "page_view", "ts": "2026-03-08T02:31:00Z", "user": {"id": "C098"}, "page": "/tents/2p"}
+{"event_id": "EV-000170", "event_type": "page_view", "ts": "2026-03-06T19:06:00Z", "user": {"id": "C134"}, "page": "/sale"}
+{"event_id": "EV-000171", "event_type": "remove_from_cart", "ts": "2026-03-07T15:31:00Z", "customer_id": "C088"}
+{"event_id": "EV-000172", "event_type": "page_view", "ts": "2026-03-02T01:27:00Z", "customer_id": "C081"}
+{"event_id": "EV-000173", "event_type": "remove_from_cart", "ts": "2026-03-02T01:11:00Z", "user": {"id": "C200"}, "page": "/packs/45l"}
+{"event_id": "EV-000174", "event_type": "checkout_start", "ts": "2026-03-05T04:19:00Z", "customer_id": "C029", "page": "/sale"}
+{"event_id": "EV-000175", "event_type": "checkout_start", "ts": "2026-03-07T17:36:00Z", "customer_id": "C041", "page": "/sale"}
+{"event_id": "EV-000176", "event_type": "search", "ts": "2026-03-06T12:39:00Z", "user": {"id": "C073"}, "page": "/", "query": "rain jacket", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000177", "event_type": "page_view", "ts": "2026-03-04T23:37:00Z", "user": {"id": "C161"}, "page": "/"}
+{"event_id": "EV-000178", "event_type": "page_view", "ts": "2026-03-04T13:22:00Z", "user": {"id": "C064"}, "page": "/tents/2p"}
+{"event_id": "EV-000179", "event_type": "search", "ts": "2026-03-07T02:55:00Z", "customer_id": "C044", "page": "/tents/2p", "query": "rain jacket"}
+{"event_id": "EV-000180", "event_type": "remove_from_cart", "ts": "2026-03-08T13:36:00Z", "user": {"id": "C069"}, "page": "/sale"}
+{"event_id": "EV-000181", "event_type": "checkout_start", "ts": "2026-03-04T12:36:00Z", "customer_id": "C026", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000182", "event_type": "search", "ts": "2026-03-04T15:32:00Z", "customer_id": "C077", "page": "/sale", "query": "2p tent"}
+{"event_id": "EV-000183", "event_type": "remove_from_cart", "ts": "2026-03-08T02:53:00Z", "customer_id": "C068", "page": "/checkout"}
+{"event_id": "EV-000184", "event_type": "page_view", "ts": "2026-03-03T19:47:00Z", "user": {"id": "C149"}, "page": "/tents/2p"}
+{"event_id": "EV-000185", "event_type": "checkout_start", "ts": "2026-03-06T16:30:00Z", "customer_id": "C020", "page": "/tents/2p"}
+{"event_id": "EV-000186", "event_type": "remove_from_cart", "ts": "2026-03-04T13:42:00Z", "customer_id": "C107", "page": "/checkout"}
+{"event_id": "EV-000187", "event_type": "page_view", "ts": "2026-03-07T17:11:00Z", "user": {"id": "C133"}}
+{"event_id": "EV-000188", "event_type": "checkout_start", "ts": "2026-03-03T21:52:00Z", "customer_id": "C164", "page": "/checkout"}
+{"event_id": "EV-000189", "event_type": "page_view", "ts": "2026-03-05T18:46:00Z", "user": {"id": "C094"}, "page": "/boots"}
+{"event_id": "EV-000190", "event_type": "checkout_start", "ts": "2026-03-07T09:54:00Z", "customer_id": "C017", "page": "/sale"}
+{"event_id": "EV-000191", "event_type": "search", "ts": "2026-03-04T20:10:00Z", "user": {"id": "C061"}, "page": "/", "query": "2p tent"}
+{"event_id": "EV-000192", "event_type": "checkout_start", "ts": "2026-03-03T09:29:00Z", "user": {"id": "C112"}, "page": "/"}
+{"event_id": "EV-000193", "event_type": "search", "ts": "2026-03-04T04:01:00Z", "user": {"id": "C072"}, "page": "/boots", "query": "rain jacket"}
+{"event_id": "EV-000194", "event_type": "page_view", "ts": "2026-03-05T00:03:00Z", "customer_id": "C077"}
+{"event_id": "EV-000195", "event_type": "page_view", "ts": "2026-03-05T11:42:00Z", "customer_id": "C186"}
+{"event_id": "EV-000196", "event_type": "page_view", "ts": "2026-03-06T23:32:00Z", "user": {"id": "C149"}}
+{"event_id": "EV-000197", "event_type": "page_view", "ts": "2026-03-04T15:56:00Z", "customer_id": "C032", "page": "/tents/2p"}
+{"event_id": "EV-000198", "event_type": "add_to_cart", "ts": "2026-03-06T23:24:00Z", "user": {"id": "C056"}, "page": "/boots"}
+{"event_id": "EV-000199", "event_type": "search", "ts": "2026-03-04T14:26:00Z", "user": {"id": "C015"}, "page": "/tents/2p", "query": "rain jacket"}
+{"event_id": "EV-000200", "event_type": "add_to_cart", "ts": "2026-03-05T15:43:00Z", "user": {"id": "C038"}, "page": "/packs/45l"}
+{"event_id": "EV-000201", "event_type": "remove_from_cart", "ts": "2026-03-04T00:41:00Z", "customer_id": "C190", "page": "/"}
+{"event_id": "EV-000202", "event_type": "search", "ts": "2026-03-08T21:15:00Z", "user": {"id": "C080"}, "page": "/packs/45l", "query": "wool socks"}
+{"event_id": "EV-000203", "event_type": "add_to_cart", "ts": "2026-03-07T03:34:00Z", "user": {"id": "C100"}, "page": "/sale"}
+{"event_id": "EV-000204", "event_type": "add_to_cart", "ts": "2026-03-04T09:05:00Z", "customer_id": "C042"}
+{"event_id": "EV-000205", "event_type": "page_view", "ts": "2026-03-08T20:26:00Z", "customer_id": "C021"}
+{"event_id": "EV-000206", "event_type": "search", "ts": "2026-03-05T23:26:00Z", "user": {"id": "C026"}, "query": "wool socks"}
+{"event_id": "EV-000207", "event_type": "remove_from_cart", "ts": "2026-03-04T13:38:00Z", "user": {"id": "C117"}, "page": "/"}
+{"event_id": "EV-000208", "event_type": "add_to_cart", "ts": "2026-03-03T20:28:00Z", "customer_id": "C052", "page": "/tents/2p"}
+{"event_id": "EV-000209", "event_type": "remove_from_cart", "ts": "2026-03-02T05:15:00Z", "user": {"id": "C197"}}
+{"event_id": "EV-000210", "event_type": "checkout_start", "ts": "2026-03-08T19:43:00Z", "user": {"id": "C082"}, "page": "/packs/45l", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000211", "event_type": "search", "ts": "2026-03-07T18:52:00Z", "user": {"id": "C051"}, "page": "/tents/2p", "query": "2p tent"}
+{"event_id": "EV-000212", "event_type": "page_view", "ts": "2026-03-05T18:14:00Z", "user": {"id": "C143"}, "page": "/packs/45l"}
+{"event_id": "EV-000213", "event_type": "search", "ts": "2026-03-02T14:12:00Z", "user": {"id": "C044"}, "page": "/checkout", "query": "45l pack"}
+{"event_id": "EV-000214", "event_type": "add_to_cart", "ts": "2026-03-03T02:23:00Z", "user": {"id": "C031"}, "page": "/checkout"}
+{"event_id": "EV-000215", "event_type": "page_view", "ts": "2026-03-05T21:31:00Z", "customer_id": "C053", "page": "/tents/2p"}
+{"event_id": "EV-000216", "event_type": "checkout_start", "ts": "2026-03-05T12:08:00Z", "user": {"id": "C154"}, "page": "/tents/2p"}
+{"event_id": "EV-000217", "event_type": "checkout_start", "ts": "2026-03-03T13:11:00Z", "user": {"id": "C008"}, "page": "/tents/2p"}
+{"event_id": "EV-000218", "event_type": "remove_from_cart", "ts": "2026-03-05T07:23:00Z", "user": {"id": "C118"}, "page": "/sale", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000219", "event_type": "add_to_cart", "ts": "2026-03-07T12:43:00Z", "user": {"id": "C182"}, "page": "/checkout"}
+{"event_id": "EV-000220", "event_type": "page_view", "ts": "2026-03-02T17:03:00Z", "customer_id": "C061", "page": "/tents/2p"}
+{"event_id": "EV-000221", "event_type": "page_view", "ts": "2026-03-07T19:45:00Z", "customer_id": "C130", "page": "/tents/2p"}
+{"event_id": "EV-000222", "event_type": "remove_from_cart", "ts": "2026-03-07T11:08:00Z", "customer_id": "C046", "page": "/checkout"}
+{"event_id": "EV-000223", "event_type": "page_view", "ts": "2026-03-04T14:08:00Z", "customer_id": "C136", "page": "/tents/2p", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000224", "event_type": "search", "ts": "2026-03-03T15:55:00Z", "user": {"id": "C111"}, "page": "/tents/2p", "query": "wool socks"}
+{"event_id": "EV-000225", "event_type": "checkout_start", "ts": "2026-03-05T05:20:00Z", "user": {"id": "C039"}, "page": "/packs/45l"}
+{"event_id": "EV-000226", "event_type": "add_to_cart", "ts": "2026-03-05T01:12:00Z", "customer_id": "C047", "page": "/tents/2p"}
+{"event_id": "EV-000227", "event_type": "checkout_start", "ts": "2026-03-05T13:07:00Z", "customer_id": "C092"}
+{"event_id": "EV-000228", "event_type": "add_to_cart", "ts": "2026-03-05T15:07:00Z", "customer_id": "C024", "page": "/tents/2p"}
+{"event_id": "EV-000229", "event_type": "search", "ts": "2026-03-03T23:32:00Z", "user": {"id": "C170"}, "page": "/checkout", "query": "rain jacket"}
+{"event_id": "EV-000230", "event_type": "page_view", "ts": "2026-03-06T05:26:00Z", "customer_id": "C128", "page": "/tents/2p", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000231", "event_type": "page_view", "ts": "2026-03-05T11:37:00Z", "user": {"id": "C040"}, "page": "/sale"}
+{"event_id": "EV-000232", "event_type": "search", "ts": "2026-03-07T15:29:00Z", "user": {"id": "C002"}, "page": "/", "query": "45l pack"}
+{"event_id": "EV-000233", "event_type": "remove_from_cart", "ts": "2026-03-07T23:58:00Z", "customer_id": "C013"}
+{"event_id": "EV-000234", "event_type": "page_view", "ts": "2026-03-08T01:47:00Z", "user": {"id": "C155"}, "page": "/sale"}
+{"event_id": "EV-000235", "event_type": "page_view", "ts": "2026-03-03T12:05:00Z", "user": {"id": "C042"}, "page": "/sale"}
+{"event_id": "EV-000236", "event_type": "page_view", "ts": "2026-03-08T20:09:00Z", "customer_id": "C111", "page": "/tents/2p"}
+{"event_id": "EV-000237", "event_type": "page_view", "ts": "2026-03-06T04:22:00Z", "user": {"id": "C132"}, "page": "/sale"}
+{"event_id": "EV-000238", "event_type": "remove_from_cart", "ts": "2026-03-05T08:36:00Z", "customer_id": "C194", "page": "/tents/2p"}
+{"event_id": "EV-000239", "event_type": "page_view", "ts": "2026-03-05T20:27:00Z", "customer_id": "C088"}
+{"event_id": "EV-000240", "event_type": "add_to_cart", "ts": "2026-03-07T21:45:00Z", "user": {"id": "C135"}, "page": "/checkout", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000241", "event_type": "checkout_start", "ts": "2026-03-05T02:58:00Z", "customer_id": "C033", "page": "/tents/2p"}
+{"event_id": "EV-000242", "event_type": "remove_from_cart", "ts": "2026-03-06T13:18:00Z", "customer_id": "C020"}
+{"event_id": "EV-000243", "event_type": "page_view", "ts": "2026-03-06T13:26:00Z", "customer_id": "C185", "page": "/tents/2p"}
+{"event_id": "EV-000244", "event_type": "remove_from_cart", "ts": "2026-03-06T02:49:00Z", "customer_id": "C190", "page": "/boots"}
+{"event_id": "EV-000245", "event_type": "page_view", "ts": "2026-03-08T12:02:00Z", "customer_id": "C181", "page": "/checkout"}
+{"event_id": "EV-000246", "event_type": "remove_from_cart", "ts": "2026-03-08T21:28:00Z", "user": {"id": "C088"}}
+{"event_id": "EV-000247", "event_type": "page_view", "ts": "2026-03-03T06:11:00Z", "user": {"id": "C155"}, "page": "/packs/45l", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000248", "event_type": "page_view", "ts": "2026-03-02T12:07:00Z", "customer_id": "C123", "page": "/sale"}
+{"event_id": "EV-000249", "event_type": "checkout_start", "ts": "2026-03-07T19:46:00Z", "customer_id": "C158", "page": "/packs/45l"}
+{"event_id": "EV-000250", "event_type": "search", "ts": "2026-03-07T12:51:00Z", "customer_id": "C035", "page": "/", "query": "rain jacket"}
+{"event_id": "EV-000251", "event_type": "checkout_start", "ts": "2026-03-03T00:13:00Z", "user": {"id": "C167"}, "page": "/packs/45l"}
+{"event_id": "EV-000252", "event_type": "search", "ts": "2026-03-06T06:05:00Z", "user": {"id": "C038"}, "page": "/", "query": "rain jacket"}
+{"event_id": "EV-000253", "event_type": "checkout_start", "ts": "2026-03-03T23:44:00Z", "user": {"id": "C121"}, "page": "/sale"}
+{"event_id": "EV-000254", "event_type": "checkout_start", "ts": "2026-03-03T09:36:00Z", "customer_id": "C003", "page": "/packs/45l"}
+{"event_id": "EV-000255", "event_type": "remove_from_cart", "ts": "2026-03-05T15:47:00Z", "user": {"id": "C142"}, "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000256", "event_type": "remove_from_cart", "ts": "2026-03-05T16:37:00Z", "user": {"id": "C125"}, "page": "/"}
+{"event_id": "EV-000257", "event_type": "remove_from_cart", "ts": "2026-03-05T18:20:00Z", "customer_id": "C166", "page": "/sale", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000258", "event_type": "page_view", "ts": "2026-03-05T22:27:00Z", "customer_id": "C186", "page": "/tents/2p"}
+{"event_id": "EV-000259", "event_type": "search", "ts": "2026-03-06T07:37:00Z", "user": {"id": "C184"}, "page": "/boots", "query": "wool socks"}
+{"event_id": "EV-000260", "event_type": "search", "ts": "2026-03-05T13:53:00Z", "user": {"id": "C042"}, "page": "/tents/2p", "query": "rain jacket"}
+{"event_id": "EV-000261", "event_type": "add_to_cart", "ts": "2026-03-03T05:12:00Z", "user": {"id": "C026"}, "page": "/sale"}
+{"event_id": "EV-000262", "event_type": "page_view", "ts": "2026-03-03T17:03:00Z", "customer_id": "C067", "page": "/boots"}
+{"event_id": "EV-000263", "event_type": "page_view", "ts": "2026-03-08T16:02:00Z", "customer_id": "C030", "page": "/"}
+{"event_id": "EV-000264", "event_type": "search", "ts": "2026-03-05T08:21:00Z", "user": {"id": "C198"}, "query": "wool socks"}
+{"event_id": "EV-000265", "event_type": "remove_from_cart", "ts": "2026-03-08T22:55:00Z", "user": {"id": "C027"}, "page": "/sale"}
+{"event_id": "EV-000266", "event_type": "remove_from_cart", "ts": "2026-03-08T03:06:00Z", "user": {"id": "C027"}, "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000267", "event_type": "add_to_cart", "ts": "2026-03-03T20:07:00Z", "user": {"id": "C041"}, "page": "/packs/45l"}
+{"event_id": "EV-000268", "event_type": "page_view", "ts": "2026-03-06T15:46:00Z", "customer_id": "C094", "page": "/boots", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000269", "event_type": "page_view", "ts": "2026-03-05T13:49:00Z", "customer_id": "C122", "page": "/checkout"}
+{"event_id": "EV-000270", "event_type": "checkout_start", "ts": "2026-03-04T11:45:00Z", "customer_id": "C171", "page": "/checkout"}
+{"event_id": "EV-000271", "event_type": "checkout_start", "ts": "2026-03-03T04:51:00Z", "customer_id": "C105"}
+{"event_id": "EV-000272", "event_type": "page_view", "ts": "2026-03-06T21:23:00Z", "customer_id": "C198", "page": "/checkout"}
+{"event_id": "EV-000273", "event_type": "checkout_start", "ts": "2026-03-02T10:20:00Z", "user": {"id": "C043"}, "page": "/sale"}
+{"event_id": "EV-000274", "event_type": "remove_from_cart", "ts": "2026-03-07T20:09:00Z", "customer_id": "C162"}
+{"event_id": "EV-000275", "event_type": "checkout_start", "ts": "2026-03-06T09:26:00Z", "user": {"id": "C180"}, "page": "/tents/2p"}
+{"event_id": "EV-000276", "event_type": "search", "ts": "2026-03-04T11:00:00Z", "user": {"id": "C157"}, "query": "45l pack"}
+{"event_id": "EV-000277", "event_type": "remove_from_cart", "ts": "2026-03-03T17:39:00Z", "user": {"id": "C179"}, "page": "/packs/45l"}
+{"event_id": "EV-000278", "event_type": "page_view", "ts": "2026-03-03T09:05:00Z", "user": {"id": "C100"}, "page": "/packs/45l"}
+{"event_id": "EV-000279", "event_type": "add_to_cart", "ts": "2026-03-06T17:18:00Z", "customer_id": "C142", "page": "/tents/2p"}
+{"event_id": "EV-000280", "event_type": "remove_from_cart", "ts": "2026-03-03T00:01:00Z", "user": {"id": "C062"}}
+{"event_id": "EV-000281", "event_type": "page_view", "ts": "2026-03-05T16:07:00Z", "user": {"id": "C067"}, "page": "/tents/2p", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000282", "event_type": "page_view", "ts": "2026-03-05T09:36:00Z", "customer_id": "C061"}
+{"event_id": "EV-000283", "event_type": "remove_from_cart", "ts": "2026-03-06T22:57:00Z", "user": {"id": "C060"}, "page": "/tents/2p"}
+{"event_id": "EV-000284", "event_type": "add_to_cart", "ts": "2026-03-08T22:36:00Z", "user": {"id": "C134"}, "page": "/"}
+{"event_id": "EV-000285", "event_type": "search", "ts": "2026-03-06T06:52:00Z", "customer_id": "C038", "page": "/sale", "query": "rain jacket", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000286", "event_type": "checkout_start", "ts": "2026-03-03T15:13:00Z", "customer_id": "C174", "page": "/checkout"}
+{"event_id": "EV-000287", "event_type": "search", "ts": "2026-03-08T12:55:00Z", "user": {"id": "C163"}, "page": "/sale", "query": "45l pack"}
+{"event_id": "EV-000288", "event_type": "remove_from_cart", "ts": "2026-03-05T05:09:00Z", "customer_id": "C183", "page": "/packs/45l"}
+{"event_id": "EV-000289", "event_type": "add_to_cart", "ts": "2026-03-06T03:44:00Z", "customer_id": "C009", "page": "/checkout"}
+{"event_id": "EV-000290", "event_type": "checkout_start", "ts": "2026-03-02T19:54:00Z", "customer_id": "C095", "page": "/"}
+{"event_id": "EV-000291", "event_type": "search", "ts": "2026-03-02T11:19:00Z", "customer_id": "C125", "page": "/boots", "query": "2p tent"}
+{"event_id": "EV-000292", "event_type": "search", "ts": "2026-03-05T01:59:00Z", "user": {"id": "C056"}, "page": "/packs/45l", "query": "45l pack", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000293", "event_type": "checkout_start", "ts": "2026-03-02T01:26:00Z", "user": {"id": "C145"}, "page": "/tents/2p"}
+{"event_id": "EV-000294", "event_type": "remove_from_cart", "ts": "2026-03-05T23:53:00Z", "customer_id": "C036", "page": "/sale"}
+{"event_id": "EV-000295", "event_type": "search", "ts": "2026-03-07T14:09:00Z", "customer_id": "C160", "page": "/sale", "query": "45l pack"}
+{"event_id": "EV-000296", "event_type": "page_view", "ts": "2026-03-05T10:34:00Z", "user": {"id": "C114"}, "page": "/packs/45l", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000297", "event_type": "search", "ts": "2026-03-07T00:36:00Z", "user": {"id": "C032"}, "page": "/", "query": "2p tent"}
+{"event_id": "EV-000298", "event_type": "page_view", "ts": "2026-03-06T18:48:00Z", "user": {"id": "C134"}, "page": "/sale"}
+{"event_id": "EV-000299", "event_type": "remove_from_cart", "ts": "2026-03-02T03:42:00Z", "customer_id": "C005", "page": "/boots"}
+{"event_id": "EV-000300", "event_type": "page_view", "ts": "2026-03-07T18:28:00Z", "user": {"id": "C156"}, "page": "/checkout", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000301", "event_type": "checkout_start", "ts": "2026-03-04T13:11:00Z", "customer_id": "C136", "page": "/tents/2p", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000302", "event_type": "add_to_cart", "ts": "2026-03-06T05:18:00Z", "customer_id": "C197", "page": "/tents/2p"}
+{"event_id": "EV-000303", "event_type": "remove_from_cart", "ts": "2026-03-07T05:03:00Z", "user": {"id": "C047"}, "page": "/"}
+{"event_id": "EV-000304", "event_type": "checkout_start", "ts": "2026-03-02T10:09:00Z", "user": {"id": "C067"}, "page": "/", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000305", "event_type": "add_to_cart", "ts": "2026-03-08T19:37:00Z", "customer_id": "C193", "page": "/"}
+{"event_id": "EV-000306", "event_type": "checkout_start", "ts": "2026-03-04T14:35:00Z", "customer_id": "C008", "page": "/boots"}
+{"event_id": "EV-000307", "event_type": "remove_from_cart", "ts": "2026-03-02T08:35:00Z", "user": {"id": "C064"}, "page": "/packs/45l"}
+{"event_id": "EV-000308", "event_type": "checkout_start", "ts": "2026-03-04T18:26:00Z", "customer_id": "C163", "page": "/boots"}
+{"event_id": "EV-000309", "event_type": "checkout_start", "ts": "2026-03-03T07:34:00Z", "user": {"id": "C143"}, "page": "/"}
+{"event_id": "EV-000310", "event_type": "add_to_cart", "ts": "2026-03-08T19:18:00Z", "customer_id": "C124", "page": "/tents/2p"}
+{"event_id": "EV-000311", "event_type": "add_to_cart", "ts": "2026-03-05T11:53:00Z", "user": {"id": "C131"}, "page": "/boots"}
+{"event_id": "EV-000312", "event_type": "page_view", "ts": "2026-03-06T02:19:00Z", "customer_id": "C032"}
+{"event_id": "EV-000313", "event_type": "remove_from_cart", "ts": "2026-03-04T13:13:00Z", "user": {"id": "C082"}}
+{"event_id": "EV-000314", "event_type": "checkout_start", "ts": "2026-03-07T08:48:00Z", "customer_id": "C170"}
+{"event_id": "EV-000315", "event_type": "page_view", "ts": "2026-03-05T19:21:00Z", "user": {"id": "C035"}, "page": "/"}
+{"event_id": "EV-000316", "event_type": "add_to_cart", "ts": "2026-03-02T00:43:00Z", "customer_id": "C179", "page": "/sale"}
+{"event_id": "EV-000317", "event_type": "page_view", "ts": "2026-03-08T20:41:00Z", "user": {"id": "C172"}, "page": "/"}
+{"event_id": "EV-000318", "event_type": "remove_from_cart", "ts": "2026-03-08T12:52:00Z", "customer_id": "C046"}
+{"event_id": "EV-000319", "event_type": "search", "ts": "2026-03-02T03:29:00Z", "user": {"id": "C114"}, "page": "/packs/45l", "query": "rain jacket"}
+{"event_id": "EV-000320", "event_type": "add_to_cart", "ts": "2026-03-07T22:22:00Z", "customer_id": "C158", "page": "/packs/45l"}
+{"event_id": "EV-000321", "event_type": "search", "ts": "2026-03-05T11:02:00Z", "customer_id": "C181", "page": "/boots", "query": "rain jacket"}
+{"event_id": "EV-000322", "event_type": "page_view", "ts": "2026-03-08T20:25:00Z", "user": {"id": "C146"}, "page": "/boots"}
+{"event_id": "EV-000323", "event_type": "remove_from_cart", "ts": "2026-03-07T23:36:00Z", "user": {"id": "C017"}, "page": "/packs/45l", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000324", "event_type": "remove_from_cart", "ts": "2026-03-06T07:56:00Z", "user": {"id": "C071"}, "page": "/packs/45l", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000325", "event_type": "checkout_start", "ts": "2026-03-07T17:56:00Z", "customer_id": "C110", "page": "/packs/45l", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000326", "event_type": "page_view", "ts": "2026-03-05T13:17:00Z", "user": {"id": "C120"}, "page": "/checkout"}
+{"event_id": "EV-000327", "event_type": "search", "ts": "2026-03-07T07:03:00Z", "user": {"id": "C137"}, "page": "/", "query": "45l pack"}
+{"event_id": "EV-000328", "event_type": "page_view", "ts": "2026-03-02T18:51:00Z", "user": {"id": "C058"}}
+{"event_id": "EV-000329", "event_type": "add_to_cart", "ts": "2026-03-02T07:12:00Z", "customer_id": "C017", "page": "/", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000330", "event_type": "search", "ts": "2026-03-08T00:37:00Z", "user": {"id": "C064"}, "page": "/boots", "query": "wool socks"}
+{"event_id": "EV-000331", "event_type": "add_to_cart", "ts": "2026-03-08T10:33:00Z", "user": {"id": "C199"}, "page": "/sale"}
+{"event_id": "EV-000332", "event_type": "page_view", "ts": "2026-03-07T14:37:00Z", "customer_id": "C016"}
+{"event_id": "EV-000333", "event_type": "add_to_cart", "ts": "2026-03-08T22:04:00Z", "customer_id": "C114", "page": "/checkout"}
+{"event_id": "EV-000334", "event_type": "page_view", "ts": "2026-03-02T03:43:00Z", "user": {"id": "C076"}}
+{"event_id": "EV-000335", "event_type": "remove_from_cart", "ts": "2026-03-06T13:14:00Z", "user": {"id": "C160"}, "page": "/sale"}
+{"event_id": "EV-000336", "event_type": "page_view", "ts": "2026-03-05T19:39:00Z", "customer_id": "C173", "page": "/sale"}
+{"event_id": "EV-000337", "event_type": "page_view", "ts": "2026-03-06T06:06:00Z", "customer_id": "C183", "page": "/boots"}
+{"event_id": "EV-000338", "event_type": "search", "ts": "2026-03-03T20:32:00Z", "customer_id": "C124", "page": "/sale", "query": "2p tent"}
+{"event_id": "EV-000339", "event_type": "add_to_cart", "ts": "2026-03-08T01:03:00Z", "customer_id": "C112", "page": "/packs/45l"}
+{"event_id": "EV-000340", "event_type": "remove_from_cart", "ts": "2026-03-04T18:56:00Z", "user": {"id": "C038"}, "page": "/checkout"}
+{"event_id": "EV-000341", "event_type": "remove_from_cart", "ts": "2026-03-04T00:33:00Z", "user": {"id": "C038"}, "page": "/checkout"}
+{"event_id": "EV-000342", "event_type": "search", "ts": "2026-03-06T01:27:00Z", "customer_id": "C052", "page": "/boots", "query": "rain jacket"}
+{"event_id": "EV-000343", "event_type": "checkout_start", "ts": "2026-03-07T15:44:00Z", "user": {"id": "C085"}}
+{"event_id": "EV-000344", "event_type": "checkout_start", "ts": "2026-03-04T19:19:00Z", "customer_id": "C027", "page": "/"}
+{"event_id": "EV-000345", "event_type": "add_to_cart", "ts": "2026-03-02T20:14:00Z", "customer_id": "C055", "page": "/packs/45l"}
+{"event_id": "EV-000346", "event_type": "checkout_start", "ts": "2026-03-08T10:51:00Z", "customer_id": "C048", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000347", "event_type": "remove_from_cart", "ts": "2026-03-02T11:01:00Z", "customer_id": "C075", "page": "/packs/45l"}
+{"event_id": "EV-000348", "event_type": "page_view", "ts": "2026-03-08T11:02:00Z", "customer_id": "C073", "page": "/tents/2p"}
+{"event_id": "EV-000349", "event_type": "add_to_cart", "ts": "2026-03-04T17:15:00Z", "customer_id": "C046"}
+{"event_id": "EV-000350", "event_type": "checkout_start", "ts": "2026-03-02T21:08:00Z", "user": {"id": "C029"}, "page": "/boots"}
+{"event_id": "EV-000351", "event_type": "search", "ts": "2026-03-03T11:51:00Z", "user": {"id": "C135"}, "query": "45l pack"}
+{"event_id": "EV-000352", "event_type": "add_to_cart", "ts": "2026-03-02T03:09:00Z", "user": {"id": "C050"}, "page": "/packs/45l"}
+{"event_id": "EV-000353", "event_type": "add_to_cart", "ts": "2026-03-06T13:40:00Z", "user": {"id": "C196"}, "page": "/boots"}
+{"event_id": "EV-000354", "event_type": "add_to_cart", "ts": "2026-03-04T04:20:00Z", "customer_id": "C072"}
+{"event_id": "EV-000355", "event_type": "page_view", "ts": "2026-03-06T15:13:00Z", "user": {"id": "C170"}, "page": "/boots"}
+{"event_id": "EV-000356", "event_type": "remove_from_cart", "ts": "2026-03-08T20:48:00Z", "customer_id": "C133", "page": "/tents/2p"}
+{"event_id": "EV-000357", "event_type": "checkout_start", "ts": "2026-03-06T22:30:00Z", "customer_id": "C149", "page": "/checkout"}
+{"event_id": "EV-000358", "event_type": "add_to_cart", "ts": "2026-03-03T07:57:00Z", "customer_id": "C061", "page": "/tents/2p"}
+{"event_id": "EV-000359", "event_type": "search", "ts": "2026-03-05T18:10:00Z", "customer_id": "C022", "page": "/", "query": "wool socks"}
+{"event_id": "EV-000360", "event_type": "page_view", "ts": "2026-03-04T07:37:00Z", "customer_id": "C160", "page": "/sale"}
+{"event_id": "EV-000361", "event_type": "checkout_start", "ts": "2026-03-05T11:51:00Z", "customer_id": "C098", "page": "/sale"}
+{"event_id": "EV-000362", "event_type": "page_view", "ts": "2026-03-07T02:22:00Z", "customer_id": "C129", "page": "/packs/45l", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000363", "event_type": "page_view", "ts": "2026-03-03T03:07:00Z", "customer_id": "C140", "page": "/boots"}
+{"event_id": "EV-000364", "event_type": "search", "ts": "2026-03-04T09:47:00Z", "customer_id": "C155", "query": "wool socks", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000365", "event_type": "checkout_start", "ts": "2026-03-04T11:50:00Z", "user": {"id": "C149"}, "page": "/"}
+{"event_id": "EV-000366", "event_type": "checkout_start", "ts": "2026-03-06T04:55:00Z", "customer_id": "C186", "page": "/sale"}
+{"event_id": "EV-000367", "event_type": "checkout_start", "ts": "2026-03-06T17:48:00Z", "user": {"id": "C119"}, "page": "/"}
+{"event_id": "EV-000368", "event_type": "checkout_start", "ts": "2026-03-03T13:49:00Z", "customer_id": "C116", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000369", "event_type": "page_view", "ts": "2026-03-06T04:19:00Z", "customer_id": "C169"}
+{"event_id": "EV-000370", "event_type": "checkout_start", "ts": "2026-03-05T13:43:00Z", "user": {"id": "C177"}, "page": "/tents/2p"}
+{"event_id": "EV-000371", "event_type": "add_to_cart", "ts": "2026-03-06T01:59:00Z", "customer_id": "C085", "page": "/checkout"}
+{"event_id": "EV-000372", "event_type": "add_to_cart", "ts": "2026-03-06T12:24:00Z", "user": {"id": "C017"}, "page": "/boots"}
+{"event_id": "EV-000373", "event_type": "search", "ts": "2026-03-04T18:28:00Z", "customer_id": "C027", "page": "/boots", "query": "rain jacket"}
+{"event_id": "EV-000374", "event_type": "add_to_cart", "ts": "2026-03-06T15:01:00Z", "customer_id": "C099", "page": "/boots"}
+{"event_id": "EV-000375", "event_type": "page_view", "ts": "2026-03-06T02:29:00Z", "customer_id": "C003", "page": "/sale"}
+{"event_id": "EV-000376", "event_type": "checkout_start", "ts": "2026-03-02T04:34:00Z", "customer_id": "C018", "page": "/boots", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000377", "event_type": "checkout_start", "ts": "2026-03-04T13:52:00Z", "customer_id": "C148"}
+{"event_id": "EV-000378", "event_type": "checkout_start", "ts": "2026-03-06T22:43:00Z", "customer_id": "C002"}
+{"event_id": "EV-000379", "event_type": "add_to_cart", "ts": "2026-03-08T12:38:00Z", "user": {"id": "C146"}}
+{"event_id": "EV-000380", "event_type": "page_view", "ts": "2026-03-06T01:47:00Z", "customer_id": "C117", "page": "/packs/45l"}
+{"event_id": "EV-000381", "event_type": "add_to_cart", "ts": "2026-03-05T19:52:00Z", "customer_id": "C046"}
+{"event_id": "EV-000382", "event_type": "add_to_cart", "ts": "2026-03-05T12:58:00Z", "user": {"id": "C025"}, "page": "/"}
+{"event_id": "EV-000383", "event_type": "remove_from_cart", "ts": "2026-03-08T05:17:00Z", "customer_id": "C018", "page": "/packs/45l"}
+{"event_id": "EV-000384", "event_type": "remove_from_cart", "ts": "2026-03-05T13:48:00Z", "customer_id": "C095", "page": "/"}
+{"event_id": "EV-000385", "event_type": "checkout_start", "ts": "2026-03-08T10:26:00Z", "customer_id": "C054", "page": "/sale", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000386", "event_type": "checkout_start", "ts": "2026-03-05T10:47:00Z", "user": {"id": "C102"}, "page": "/tents/2p", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000387", "event_type": "checkout_start", "ts": "2026-03-04T21:47:00Z", "customer_id": "C018", "page": "/packs/45l"}
+{"event_id": "EV-000388", "event_type": "search", "ts": "2026-03-05T04:30:00Z", "user": {"id": "C044"}, "query": "rain jacket"}
+{"event_id": "EV-000389", "event_type": "checkout_start", "ts": "2026-03-02T17:47:00Z", "customer_id": "C172", "page": "/packs/45l"}
+{"event_id": "EV-000390", "event_type": "add_to_cart", "ts": "2026-03-05T11:11:00Z", "user": {"id": "C173"}, "page": "/sale"}
+{"event_id": "EV-000391", "event_type": "remove_from_cart", "ts": "2026-03-08T20:51:00Z", "user": {"id": "C184"}, "page": "/"}
+{"event_id": "EV-000392", "event_type": "remove_from_cart", "ts": "2026-03-04T14:03:00Z", "customer_id": "C198", "page": "/boots"}
+{"event_id": "EV-000393", "event_type": "page_view", "ts": "2026-03-04T07:12:00Z", "customer_id": "C008"}
+{"event_id": "EV-000394", "event_type": "page_view", "ts": "2026-03-03T21:42:00Z", "customer_id": "C025", "page": "/packs/45l"}
+{"event_id": "EV-000395", "event_type": "remove_from_cart", "ts": "2026-03-03T01:26:00Z", "customer_id": "C084", "page": "/packs/45l"}
+{"event_id": "EV-000396", "event_type": "checkout_start", "ts": "2026-03-03T17:25:00Z", "customer_id": "C055", "page": "/tents/2p"}
+{"event_id": "EV-000397", "event_type": "page_view", "ts": "2026-03-05T20:20:00Z", "customer_id": "C118", "page": "/packs/45l"}
+{"event_id": "EV-000398", "event_type": "page_view", "ts": "2026-03-07T19:23:00Z", "customer_id": "C056", "page": "/checkout"}
+{"event_id": "EV-000399", "event_type": "remove_from_cart", "ts": "2026-03-02T22:34:00Z", "customer_id": "C025", "page": "/packs/45l"}
+{"event_id": "EV-000400", "event_type": "search", "ts": "2026-03-07T22:08:00Z", "customer_id": "C195", "query": "wool socks"}
+{"event_id": "EV-000401", "event_type": "search", "ts": "2026-03-07T15:04:00Z", "customer_id": "C150", "page": "/checkout", "query": "2p tent"}
+{"event_id": "EV-000402", "event_type": "page_view", "ts": "2026-03-07T00:14:00Z", "user": {"id": "C032"}, "page": "/packs/45l"}
+{"event_id": "EV-000403", "event_type": "page_view", "ts": "2026-03-03T19:05:00Z", "customer_id": "C128", "page": "/boots"}
+{"event_id": "EV-000404", "event_type": "remove_from_cart", "ts": "2026-03-07T01:15:00Z", "user": {"id": "C114"}, "page": "/tents/2p", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000405", "event_type": "checkout_start", "ts": "2026-03-07T01:33:00Z", "user": {"id": "C074"}, "page": "/boots"}
+{"event_id": "EV-000406", "event_type": "add_to_cart", "ts": "2026-03-04T10:15:00Z", "user": {"id": "C171"}}
+{"event_id": "EV-000407", "event_type": "remove_from_cart", "ts": "2026-03-07T23:14:00Z", "user": {"id": "C134"}, "page": "/sale"}
+{"event_id": "EV-000408", "event_type": "add_to_cart", "ts": "2026-03-02T15:04:00Z", "customer_id": "C037", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000409", "event_type": "add_to_cart", "ts": "2026-03-06T17:53:00Z", "customer_id": "C021", "page": "/sale"}
+{"event_id": "EV-000410", "event_type": "checkout_start", "ts": "2026-03-07T06:15:00Z", "customer_id": "C064", "page": "/checkout"}
+{"event_id": "EV-000411", "event_type": "checkout_start", "ts": "2026-03-07T06:17:00Z", "customer_id": "C093", "page": "/boots"}
+{"event_id": "EV-000412", "event_type": "checkout_start", "ts": "2026-03-05T16:39:00Z", "user": {"id": "C124"}, "page": "/sale"}
+{"event_id": "EV-000413", "event_type": "remove_from_cart", "ts": "2026-03-02T09:38:00Z", "customer_id": "C187", "page": "/sale"}
+{"event_id": "EV-000414", "event_type": "remove_from_cart", "ts": "2026-03-05T09:24:00Z", "user": {"id": "C019"}, "page": "/packs/45l"}
+{"event_id": "EV-000415", "event_type": "page_view", "ts": "2026-03-03T06:00:00Z", "user": {"id": "C187"}, "page": "/sale"}
+{"event_id": "EV-000416", "event_type": "search", "ts": "2026-03-05T12:47:00Z", "customer_id": "C079", "page": "/checkout", "query": "rain jacket"}
+{"event_id": "EV-000417", "event_type": "remove_from_cart", "ts": "2026-03-02T03:24:00Z", "customer_id": "C196", "page": "/tents/2p"}
+{"event_id": "EV-000418", "event_type": "remove_from_cart", "ts": "2026-03-08T23:22:00Z", "user": {"id": "C163"}, "page": "/packs/45l", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000419", "event_type": "add_to_cart", "ts": "2026-03-05T23:15:00Z", "customer_id": "C093", "page": "/packs/45l", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000420", "event_type": "add_to_cart", "ts": "2026-03-04T19:29:00Z", "customer_id": "C155", "page": "/packs/45l"}
+{"event_id": "EV-000421", "event_type": "page_view", "ts": "2026-03-02T03:49:00Z", "user": {"id": "C099"}, "page": "/checkout"}
+{"event_id": "EV-000422", "event_type": "add_to_cart", "ts": "2026-03-02T16:58:00Z", "user": {"id": "C043"}}
+{"event_id": "EV-000423", "event_type": "checkout_start", "ts": "2026-03-04T16:34:00Z", "user": {"id": "C188"}, "page": "/packs/45l"}
+{"event_id": "EV-000424", "event_type": "search", "ts": "2026-03-02T20:36:00Z", "user": {"id": "C069"}, "page": "/packs/45l", "query": "45l pack"}
+{"event_id": "EV-000425", "event_type": "checkout_start", "ts": "2026-03-02T05:52:00Z", "customer_id": "C018", "page": "/sale"}
+{"event_id": "EV-000426", "event_type": "checkout_start", "ts": "2026-03-07T09:46:00Z", "customer_id": "C096", "page": "/boots"}
+{"event_id": "EV-000427", "event_type": "checkout_start", "ts": "2026-03-03T16:07:00Z", "user": {"id": "C055"}, "page": "/"}
+{"event_id": "EV-000428", "event_type": "checkout_start", "ts": "2026-03-08T06:16:00Z", "customer_id": "C160", "page": "/packs/45l"}
+{"event_id": "EV-000429", "event_type": "page_view", "ts": "2026-03-04T02:24:00Z", "customer_id": "C088", "page": "/boots"}
+{"event_id": "EV-000430", "event_type": "page_view", "ts": "2026-03-07T03:00:00Z", "customer_id": "C002", "page": "/", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000431", "event_type": "search", "ts": "2026-03-05T19:33:00Z", "user": {"id": "C122"}, "page": "/checkout", "query": "45l pack"}
+{"event_id": "EV-000432", "event_type": "add_to_cart", "ts": "2026-03-07T10:20:00Z", "user": {"id": "C171"}, "page": "/checkout", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000433", "event_type": "page_view", "ts": "2026-03-08T10:51:00Z", "customer_id": "C179", "page": "/boots", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000434", "event_type": "add_to_cart", "ts": "2026-03-08T16:17:00Z", "customer_id": "C159", "page": "/sale"}
+{"event_id": "EV-000435", "event_type": "search", "ts": "2026-03-07T06:00:00Z", "customer_id": "C093", "query": "wool socks"}
+{"event_id": "EV-000436", "event_type": "checkout_start", "ts": "2026-03-03T19:31:00Z", "user": {"id": "C021"}, "page": "/sale"}
+{"event_id": "EV-000437", "event_type": "page_view", "ts": "2026-03-08T22:57:00Z", "user": {"id": "C076"}, "page": "/packs/45l", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000438", "event_type": "page_view", "ts": "2026-03-03T15:50:00Z", "customer_id": "C173"}
+{"event_id": "EV-000439", "event_type": "checkout_start", "ts": "2026-03-05T05:57:00Z", "user": {"id": "C124"}, "page": "/boots"}
+{"event_id": "EV-000440", "event_type": "page_view", "ts": "2026-03-03T21:44:00Z", "customer_id": "C184", "page": "/tents/2p"}
+{"event_id": "EV-000441", "event_type": "search", "ts": "2026-03-08T08:14:00Z", "user": {"id": "C172"}, "page": "/boots", "query": "45l pack", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000442", "event_type": "remove_from_cart", "ts": "2026-03-08T07:59:00Z", "user": {"id": "C154"}, "page": "/tents/2p"}
+{"event_id": "EV-000443", "event_type": "checkout_start", "ts": "2026-03-07T23:47:00Z", "user": {"id": "C144"}}
+{"event_id": "EV-000444", "event_type": "page_view", "ts": "2026-03-03T07:16:00Z", "customer_id": "C029", "page": "/packs/45l"}
+{"event_id": "EV-000445", "event_type": "remove_from_cart", "ts": "2026-03-03T23:07:00Z", "customer_id": "C081"}
+{"event_id": "EV-000446", "event_type": "remove_from_cart", "ts": "2026-03-02T09:03:00Z", "user": {"id": "C100"}}
+{"event_id": "EV-000447", "event_type": "add_to_cart", "ts": "2026-03-04T21:59:00Z", "user": {"id": "C155"}, "page": "/"}
+{"event_id": "EV-000448", "event_type": "add_to_cart", "ts": "2026-03-06T14:20:00Z", "user": {"id": "C076"}}
+{"event_id": "EV-000449", "event_type": "search", "ts": "2026-03-05T04:38:00Z", "customer_id": "C171", "query": "rain jacket"}
+{"event_id": "EV-000450", "event_type": "page_view", "ts": "2026-03-04T16:44:00Z", "customer_id": "C181", "page": "/packs/45l"}
+{"event_id": "EV-000451", "event_type": "checkout_start", "ts": "2026-03-05T09:45:00Z", "customer_id": "C086", "page": "/packs/45l"}
+{"event_id": "EV-000452", "event_type": "page_view", "ts": "2026-03-07T07:44:00Z", "user": {"id": "C199"}, "page": "/sale"}
+{"event_id": "EV-000453", "event_type": "add_to_cart", "ts": "2026-03-04T21:58:00Z", "user": {"id": "C141"}, "page": "/sale"}
+{"event_id": "EV-000454", "event_type": "page_view", "ts": "2026-03-04T12:25:00Z", "user": {"id": "C073"}, "page": "/boots"}
+{"event_id": "EV-000455", "event_type": "add_to_cart", "ts": "2026-03-06T12:06:00Z", "customer_id": "C149", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000456", "event_type": "remove_from_cart", "ts": "2026-03-05T20:10:00Z", "customer_id": "C179", "page": "/boots"}
+{"event_id": "EV-000457", "event_type": "page_view", "ts": "2026-03-08T23:12:00Z", "customer_id": "C148", "page": "/boots"}
+{"event_id": "EV-000458", "event_type": "add_to_cart", "ts": "2026-03-05T21:53:00Z", "user": {"id": "C025"}, "page": "/sale"}
+{"event_id": "EV-000459", "event_type": "search", "ts": "2026-03-02T03:32:00Z", "user": {"id": "C039"}, "page": "/sale", "query": "2p tent", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000460", "event_type": "remove_from_cart", "ts": "2026-03-05T15:19:00Z", "user": {"id": "C168"}, "page": "/packs/45l"}
+{"event_id": "EV-000461", "event_type": "checkout_start", "ts": "2026-03-07T21:05:00Z", "user": {"id": "C167"}, "page": "/packs/45l"}
+{"event_id": "EV-000462", "event_type": "page_view", "ts": "2026-03-04T00:07:00Z", "customer_id": "C126", "page": "/checkout"}
+{"event_id": "EV-000463", "event_type": "checkout_start", "ts": "2026-03-06T18:36:00Z", "customer_id": "C191", "page": "/checkout"}
+{"event_id": "EV-000464", "event_type": "checkout_start", "ts": "2026-03-05T20:44:00Z", "customer_id": "C033", "page": "/"}
+{"event_id": "EV-000465", "event_type": "checkout_start", "ts": "2026-03-08T17:11:00Z", "user": {"id": "C006"}, "page": "/checkout"}
+{"event_id": "EV-000466", "event_type": "remove_from_cart", "ts": "2026-03-06T15:04:00Z", "user": {"id": "C138"}, "page": "/packs/45l", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000467", "event_type": "remove_from_cart", "ts": "2026-03-07T03:11:00Z", "user": {"id": "C002"}, "page": "/tents/2p", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000468", "event_type": "add_to_cart", "ts": "2026-03-06T06:41:00Z", "customer_id": "C066", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000469", "event_type": "remove_from_cart", "ts": "2026-03-06T09:23:00Z", "customer_id": "C169", "page": "/tents/2p", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000470", "event_type": "add_to_cart", "ts": "2026-03-07T17:28:00Z", "user": {"id": "C178"}, "page": "/tents/2p"}
+{"event_id": "EV-000471", "event_type": "page_view", "ts": "2026-03-06T06:44:00Z", "user": {"id": "C012"}, "page": "/boots", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000472", "event_type": "add_to_cart", "ts": "2026-03-03T19:35:00Z", "user": {"id": "C072"}, "page": "/checkout"}
+{"event_id": "EV-000473", "event_type": "checkout_start", "ts": "2026-03-06T08:16:00Z", "user": {"id": "C042"}, "page": "/"}
+{"event_id": "EV-000474", "event_type": "add_to_cart", "ts": "2026-03-07T13:44:00Z", "user": {"id": "C019"}, "page": "/tents/2p"}
+{"event_id": "EV-000475", "event_type": "search", "ts": "2026-03-07T20:12:00Z", "user": {"id": "C166"}, "query": "2p tent"}
+{"event_id": "EV-000476", "event_type": "checkout_start", "ts": "2026-03-03T10:50:00Z", "customer_id": "C155", "page": "/tents/2p", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000477", "event_type": "page_view", "ts": "2026-03-07T17:26:00Z", "customer_id": "C023", "page": "/tents/2p"}
+{"event_id": "EV-000478", "event_type": "page_view", "ts": "2026-03-03T07:17:00Z", "customer_id": "C057", "page": "/"}
+{"event_id": "EV-000479", "event_type": "search", "ts": "2026-03-02T05:33:00Z", "user": {"id": "C126"}, "page": "/tents/2p", "query": "wool socks"}
+{"event_id": "EV-000480", "event_type": "page_view", "ts": "2026-03-06T03:57:00Z", "customer_id": "C193", "page": "/tents/2p"}
+{"event_id": "EV-000481", "event_type": "remove_from_cart", "ts": "2026-03-07T17:35:00Z", "user": {"id": "C104"}, "page": "/boots"}
+{"event_id": "EV-000482", "event_type": "add_to_cart", "ts": "2026-03-07T16:45:00Z", "user": {"id": "C037"}, "page": "/packs/45l"}
+{"event_id": "EV-000483", "event_type": "add_to_cart", "ts": "2026-03-07T20:23:00Z", "user": {"id": "C108"}, "page": "/boots"}
+{"event_id": "EV-000484", "event_type": "search", "ts": "2026-03-04T14:32:00Z", "customer_id": "C110", "page": "/packs/45l", "query": "2p tent"}
+{"event_id": "EV-000485", "event_type": "checkout_start", "ts": "2026-03-08T02:19:00Z", "user": {"id": "C024"}, "page": "/"}
+{"event_id": "EV-000486", "event_type": "page_view", "ts": "2026-03-02T05:36:00Z", "customer_id": "C074", "page": "/sale"}
+{"event_id": "EV-000487", "event_type": "remove_from_cart", "ts": "2026-03-02T13:43:00Z", "user": {"id": "C035"}, "page": "/checkout"}
+{"event_id": "EV-000488", "event_type": "page_view", "ts": "2026-03-07T17:44:00Z", "customer_id": "C158", "page": "/packs/45l", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000489", "event_type": "search", "ts": "2026-03-07T17:47:00Z", "customer_id": "C190", "page": "/checkout", "query": "rain jacket"}
+{"event_id": "EV-000490", "event_type": "remove_from_cart", "ts": "2026-03-03T21:59:00Z", "user": {"id": "C045"}, "page": "/boots"}
+{"event_id": "EV-000491", "event_type": "checkout_start", "ts": "2026-03-02T13:31:00Z", "customer_id": "C029", "page": "/packs/45l"}
+{"event_id": "EV-000492", "event_type": "search", "ts": "2026-03-06T03:18:00Z", "customer_id": "C068", "page": "/packs/45l", "query": "45l pack"}
+{"event_id": "EV-000493", "event_type": "page_view", "ts": "2026-03-04T20:32:00Z", "user": {"id": "C159"}, "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000494", "event_type": "search", "ts": "2026-03-06T14:21:00Z", "customer_id": "C002", "page": "/packs/45l", "query": "2p tent"}
+{"event_id": "EV-000495", "event_type": "checkout_start", "ts": "2026-03-02T03:27:00Z", "customer_id": "C136", "page": "/boots"}
+{"event_id": "EV-000496", "event_type": "search", "ts": "2026-03-05T00:09:00Z", "customer_id": "C102", "page": "/tents/2p", "query": "45l pack"}
+{"event_id": "EV-000497", "event_type": "checkout_start", "ts": "2026-03-06T08:06:00Z", "user": {"id": "C113"}, "page": "/tents/2p"}
+{"event_id": "EV-000498", "event_type": "add_to_cart", "ts": "2026-03-02T11:56:00Z", "customer_id": "C073", "page": "/sale"}
+{"event_id": "EV-000499", "event_type": "add_to_cart", "ts": "2026-03-04T01:10:00Z", "user": {"id": "C171"}, "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000500", "event_type": "add_to_cart", "ts": "2026-03-06T15:51:00Z", "customer_id": "C196", "page": "/sale"}
+{"event_id": "EV-000501", "event_type": "page_view", "ts": "2026-03-07T12:08:00Z", "user": {"id": "C006"}, "page": "/tents/2p"}
+{"event_id": "EV-000502", "event_type": "page_view", "ts": "2026-03-08T21:15:00Z", "user": {"id": "C088"}, "page": "/checkout"}
+{"event_id": "EV-000503", "event_type": "search", "ts": "2026-03-05T15:18:00Z", "customer_id": "C195", "page": "/checkout", "query": "2p tent"}
+{"event_id": "EV-000504", "event_type": "page_view", "ts": "2026-03-03T07:17:00Z", "user": {"id": "C180"}, "page": "/sale"}
+{"event_id": "EV-000505", "event_type": "remove_from_cart", "ts": "2026-03-07T03:44:00Z", "user": {"id": "C049"}}
+{"event_id": "EV-000506", "event_type": "page_view", "ts": "2026-03-07T04:14:00Z", "customer_id": "C010", "page": "/boots"}
+{"event_id": "EV-000507", "event_type": "add_to_cart", "ts": "2026-03-05T00:39:00Z", "customer_id": "C014", "page": "/checkout"}
+{"event_id": "EV-000508", "event_type": "search", "ts": "2026-03-07T07:14:00Z", "customer_id": "C016", "page": "/packs/45l", "query": "rain jacket"}
+{"event_id": "EV-000509", "event_type": "search", "ts": "2026-03-04T11:17:00Z", "user": {"id": "C064"}, "page": "/", "query": "2p tent", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000510", "event_type": "add_to_cart", "ts": "2026-03-07T23:20:00Z", "customer_id": "C072", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000511", "event_type": "search", "ts": "2026-03-04T15:23:00Z", "customer_id": "C025", "page": "/packs/45l", "query": "2p tent"}
+{"event_id": "EV-000512", "event_type": "remove_from_cart", "ts": "2026-03-07T11:47:00Z", "user": {"id": "C096"}, "page": "/tents/2p"}
+{"event_id": "EV-000513", "event_type": "page_view", "ts": "2026-03-05T02:56:00Z", "customer_id": "C191", "page": "/"}
+{"event_id": "EV-000514", "event_type": "checkout_start", "ts": "2026-03-07T06:12:00Z", "user": {"id": "C020"}}
+{"event_id": "EV-000515", "event_type": "add_to_cart", "ts": "2026-03-04T23:30:00Z", "user": {"id": "C040"}, "page": "/boots"}
+{"event_id": "EV-000516", "event_type": "remove_from_cart", "ts": "2026-03-07T08:57:00Z", "user": {"id": "C094"}, "page": "/packs/45l", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000517", "event_type": "remove_from_cart", "ts": "2026-03-02T15:26:00Z", "user": {"id": "C129"}, "page": "/boots"}
+{"event_id": "EV-000518", "event_type": "page_view", "ts": "2026-03-07T04:18:00Z", "user": {"id": "C016"}, "page": "/packs/45l"}
+{"event_id": "EV-000519", "event_type": "remove_from_cart", "ts": "2026-03-08T12:31:00Z", "user": {"id": "C020"}, "page": "/checkout"}
+{"event_id": "EV-000520", "event_type": "remove_from_cart", "ts": "2026-03-08T12:25:00Z", "customer_id": "C048", "page": "/checkout"}
+{"event_id": "EV-000521", "event_type": "remove_from_cart", "ts": "2026-03-07T00:56:00Z", "customer_id": "C182", "page": "/tents/2p"}
+{"event_id": "EV-000522", "event_type": "search", "ts": "2026-03-03T09:45:00Z", "user": {"id": "C044"}, "page": "/checkout", "query": "2p tent"}
+{"event_id": "EV-000523", "event_type": "search", "ts": "2026-03-07T04:56:00Z", "user": {"id": "C070"}, "query": "rain jacket"}
+{"event_id": "EV-000524", "event_type": "page_view", "ts": "2026-03-03T06:34:00Z", "customer_id": "C089", "page": "/tents/2p"}
+{"event_id": "EV-000525", "event_type": "add_to_cart", "ts": "2026-03-07T17:16:00Z", "customer_id": "C157", "page": "/"}
+{"event_id": "EV-000526", "event_type": "search", "ts": "2026-03-02T11:14:00Z", "customer_id": "C005", "page": "/checkout", "query": "rain jacket"}
+{"event_id": "EV-000527", "event_type": "search", "ts": "2026-03-07T12:41:00Z", "user": {"id": "C163"}, "page": "/boots", "query": "45l pack"}
+{"event_id": "EV-000528", "event_type": "checkout_start", "ts": "2026-03-04T06:37:00Z", "customer_id": "C060", "page": "/sale"}
+{"event_id": "EV-000529", "event_type": "add_to_cart", "ts": "2026-03-05T02:31:00Z", "customer_id": "C046", "page": "/sale"}
+{"event_id": "EV-000530", "event_type": "page_view", "ts": "2026-03-03T20:18:00Z", "customer_id": "C046"}
+{"event_id": "EV-000531", "event_type": "page_view", "ts": "2026-03-03T02:09:00Z", "customer_id": "C117"}
+{"event_id": "EV-000532", "event_type": "add_to_cart", "ts": "2026-03-02T23:33:00Z", "user": {"id": "C004"}, "page": "/sale"}
+{"event_id": "EV-000533", "event_type": "page_view", "ts": "2026-03-02T00:48:00Z", "customer_id": "C198", "page": "/boots"}
+{"event_id": "EV-000534", "event_type": "page_view", "ts": "2026-03-06T00:50:00Z", "user": {"id": "C028"}, "page": "/tents/2p"}
+{"event_id": "EV-000535", "event_type": "checkout_start", "ts": "2026-03-02T06:08:00Z", "user": {"id": "C114"}}
+{"event_id": "EV-000536", "event_type": "page_view", "ts": "2026-03-05T04:15:00Z", "user": {"id": "C069"}, "page": "/", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000537", "event_type": "page_view", "ts": "2026-03-02T17:18:00Z", "user": {"id": "C107"}, "page": "/boots", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000538", "event_type": "search", "ts": "2026-03-05T04:22:00Z", "customer_id": "C176", "page": "/packs/45l", "query": "rain jacket"}
+{"event_id": "EV-000539", "event_type": "search", "ts": "2026-03-02T07:06:00Z", "customer_id": "C158", "page": "/tents/2p", "query": "rain jacket"}
+{"event_id": "EV-000540", "event_type": "checkout_start", "ts": "2026-03-06T04:11:00Z", "user": {"id": "C154"}, "page": "/sale"}
+{"event_id": "EV-000541", "event_type": "remove_from_cart", "ts": "2026-03-07T21:19:00Z", "user": {"id": "C090"}}
+{"event_id": "EV-000542", "event_type": "search", "ts": "2026-03-05T21:23:00Z", "user": {"id": "C183"}, "page": "/", "query": "2p tent"}
+{"event_id": "EV-000543", "event_type": "checkout_start", "ts": "2026-03-03T10:09:00Z", "customer_id": "C123", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000544", "event_type": "page_view", "ts": "2026-03-07T08:09:00Z", "customer_id": "C033", "page": "/sale"}
+{"event_id": "EV-000545", "event_type": "checkout_start", "ts": "2026-03-05T13:30:00Z", "user": {"id": "C163"}, "page": "/packs/45l"}
+{"event_id": "EV-000546", "event_type": "checkout_start", "ts": "2026-03-05T13:35:00Z", "user": {"id": "C127"}, "page": "/boots"}
+{"event_id": "EV-000547", "event_type": "remove_from_cart", "ts": "2026-03-06T22:26:00Z", "user": {"id": "C178"}}
+{"event_id": "EV-000548", "event_type": "page_view", "ts": "2026-03-02T07:23:00Z", "customer_id": "C005", "page": "/sale"}
+{"event_id": "EV-000549", "event_type": "search", "ts": "2026-03-02T01:58:00Z", "customer_id": "C200", "query": "wool socks"}
+{"event_id": "EV-000550", "event_type": "checkout_start", "ts": "2026-03-08T17:59:00Z", "customer_id": "C058", "page": "/boots", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000551", "event_type": "checkout_start", "ts": "2026-03-05T23:01:00Z", "customer_id": "C180", "page": "/checkout", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000552", "event_type": "add_to_cart", "ts": "2026-03-02T04:23:00Z", "customer_id": "C020", "page": "/sale", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000553", "event_type": "remove_from_cart", "ts": "2026-03-05T23:08:00Z", "user": {"id": "C077"}, "page": "/packs/45l"}
+{"event_id": "EV-000554", "event_type": "page_view", "ts": "2026-03-08T20:44:00Z", "customer_id": "C040", "page": "/packs/45l", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000555", "event_type": "checkout_start", "ts": "2026-03-06T05:00:00Z", "user": {"id": "C175"}}
+{"event_id": "EV-000556", "event_type": "remove_from_cart", "ts": "2026-03-07T08:58:00Z", "user": {"id": "C182"}, "page": "/boots"}
+{"event_id": "EV-000557", "event_type": "add_to_cart", "ts": "2026-03-02T16:24:00Z", "user": {"id": "C103"}, "page": "/boots"}
+{"event_id": "EV-000558", "event_type": "remove_from_cart", "ts": "2026-03-08T23:35:00Z", "user": {"id": "C178"}, "page": "/tents/2p"}
+{"event_id": "EV-000559", "event_type": "page_view", "ts": "2026-03-05T12:10:00Z", "user": {"id": "C166"}, "page": "/tents/2p", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000560", "event_type": "search", "ts": "2026-03-04T19:49:00Z", "customer_id": "C073", "page": "/", "query": "rain jacket"}
+{"event_id": "EV-000561", "event_type": "remove_from_cart", "ts": "2026-03-02T09:12:00Z", "customer_id": "C009", "page": "/"}
+{"event_id": "EV-000562", "event_type": "checkout_start", "ts": "2026-03-06T01:36:00Z", "customer_id": "C081", "page": "/tents/2p", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000563", "event_type": "remove_from_cart", "ts": "2026-03-08T09:25:00Z", "customer_id": "C193", "page": "/tents/2p"}
+{"event_id": "EV-000564", "event_type": "search", "ts": "2026-03-07T21:06:00Z", "customer_id": "C190", "page": "/checkout", "query": "2p tent", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000565", "event_type": "page_view", "ts": "2026-03-05T18:55:00Z", "customer_id": "C039", "page": "/"}
+{"event_id": "EV-000566", "event_type": "add_to_cart", "ts": "2026-03-02T22:14:00Z", "user": {"id": "C168"}, "page": "/packs/45l"}
+{"event_id": "EV-000567", "event_type": "remove_from_cart", "ts": "2026-03-06T16:46:00Z", "user": {"id": "C197"}, "page": "/boots"}
+{"event_id": "EV-000568", "event_type": "checkout_start", "ts": "2026-03-04T19:54:00Z", "customer_id": "C183", "page": "/sale"}
+{"event_id": "EV-000569", "event_type": "add_to_cart", "ts": "2026-03-06T19:04:00Z", "user": {"id": "C128"}, "page": "/", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000570", "event_type": "page_view", "ts": "2026-03-06T02:31:00Z", "customer_id": "C044"}
+{"event_id": "EV-000571", "event_type": "search", "ts": "2026-03-04T18:23:00Z", "customer_id": "C046", "page": "/sale", "query": "wool socks"}
+{"event_id": "EV-000572", "event_type": "add_to_cart", "ts": "2026-03-04T14:41:00Z", "user": {"id": "C146"}, "page": "/tents/2p"}
+{"event_id": "EV-000573", "event_type": "remove_from_cart", "ts": "2026-03-05T13:54:00Z", "user": {"id": "C034"}, "page": "/checkout"}
+{"event_id": "EV-000574", "event_type": "checkout_start", "ts": "2026-03-04T11:05:00Z", "user": {"id": "C068"}}
+{"event_id": "EV-000575", "event_type": "page_view", "ts": "2026-03-02T19:41:00Z", "user": {"id": "C063"}, "page": "/checkout", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000576", "event_type": "remove_from_cart", "ts": "2026-03-04T12:10:00Z", "customer_id": "C019", "page": "/sale"}
+{"event_id": "EV-000577", "event_type": "remove_from_cart", "ts": "2026-03-04T14:29:00Z", "user": {"id": "C120"}, "page": "/boots"}
+{"event_id": "EV-000578", "event_type": "checkout_start", "ts": "2026-03-05T13:12:00Z", "customer_id": "C082", "page": "/checkout"}
+{"event_id": "EV-000579", "event_type": "page_view", "ts": "2026-03-07T23:30:00Z", "customer_id": "C010", "page": "/sale", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000580", "event_type": "remove_from_cart", "ts": "2026-03-04T18:02:00Z", "user": {"id": "C016"}}
+{"event_id": "EV-000581", "event_type": "page_view", "ts": "2026-03-05T15:13:00Z", "customer_id": "C006"}
+{"event_id": "EV-000582", "event_type": "add_to_cart", "ts": "2026-03-04T08:40:00Z", "customer_id": "C018", "page": "/"}
+{"event_id": "EV-000583", "event_type": "checkout_start", "ts": "2026-03-07T14:55:00Z", "user": {"id": "C172"}}
+{"event_id": "EV-000584", "event_type": "checkout_start", "ts": "2026-03-02T02:57:00Z", "customer_id": "C193", "page": "/boots"}
+{"event_id": "EV-000585", "event_type": "remove_from_cart", "ts": "2026-03-05T15:30:00Z", "user": {"id": "C042"}}
+{"event_id": "EV-000586", "event_type": "page_view", "ts": "2026-03-07T18:24:00Z", "user": {"id": "C153"}, "page": "/packs/45l"}
+{"event_id": "EV-000587", "event_type": "search", "ts": "2026-03-06T04:20:00Z", "customer_id": "C118", "query": "45l pack"}
+{"event_id": "EV-000588", "event_type": "search", "ts": "2026-03-02T21:26:00Z", "user": {"id": "C001"}, "query": "2p tent"}
+{"event_id": "EV-000589", "event_type": "page_view", "ts": "2026-03-07T18:06:00Z", "customer_id": "C049", "page": "/checkout"}
+{"event_id": "EV-000590", "event_type": "search", "ts": "2026-03-06T12:13:00Z", "customer_id": "C049", "query": "rain jacket"}
+{"event_id": "EV-000591", "event_type": "search", "ts": "2026-03-04T00:19:00Z", "user": {"id": "C032"}, "page": "/packs/45l", "query": "45l pack"}
+{"event_id": "EV-000592", "event_type": "remove_from_cart", "ts": "2026-03-04T11:53:00Z", "customer_id": "C196", "page": "/boots"}
+{"event_id": "EV-000593", "event_type": "remove_from_cart", "ts": "2026-03-04T05:35:00Z", "customer_id": "C112", "page": "/packs/45l"}
+{"event_id": "EV-000594", "event_type": "remove_from_cart", "ts": "2026-03-05T20:18:00Z", "user": {"id": "C026"}}
+{"event_id": "EV-000595", "event_type": "page_view", "ts": "2026-03-02T02:41:00Z", "user": {"id": "C106"}, "page": "/packs/45l"}
+{"event_id": "EV-000596", "event_type": "checkout_start", "ts": "2026-03-06T03:40:00Z", "user": {"id": "C009"}, "page": "/sale"}
+{"event_id": "EV-000597", "event_type": "checkout_start", "ts": "2026-03-08T14:35:00Z", "customer_id": "C121"}
+{"event_id": "EV-000598", "event_type": "checkout_start", "ts": "2026-03-08T14:26:00Z", "customer_id": "C096", "page": "/checkout"}
+{"event_id": "EV-000599", "event_type": "checkout_start", "ts": "2026-03-07T08:19:00Z", "user": {"id": "C002"}}
+{"event_id": "EV-000600", "event_type": "search", "ts": "2026-03-02T00:09:00Z", "user": {"id": "C133"}, "query": "wool socks"}
+{"event_id": "EV-000601", "event_type": "remove_from_cart", "ts": "2026-03-06T13:15:00Z", "user": {"id": "C050"}, "page": "/sale"}
+{"event_id": "EV-000602", "event_type": "add_to_cart", "ts": "2026-03-08T18:27:00Z", "user": {"id": "C100"}}
+{"event_id": "EV-000603", "event_type": "checkout_start", "ts": "2026-03-04T16:10:00Z", "customer_id": "C182"}
+{"event_id": "EV-000604", "event_type": "checkout_start", "ts": "2026-03-07T18:50:00Z", "user": {"id": "C161"}}
+{"event_id": "EV-000605", "event_type": "page_view", "ts": "2026-03-03T10:13:00Z", "customer_id": "C112", "page": "/checkout"}
+{"event_id": "EV-000606", "event_type": "page_view", "ts": "2026-03-06T22:34:00Z", "user": {"id": "C007"}, "page": "/boots"}
+{"event_id": "EV-000607", "event_type": "search", "ts": "2026-03-07T20:49:00Z", "customer_id": "C168", "query": "wool socks"}
+{"event_id": "EV-000608", "event_type": "checkout_start", "ts": "2026-03-08T07:46:00Z", "user": {"id": "C169"}, "page": "/"}
+{"event_id": "EV-000609", "event_type": "remove_from_cart", "ts": "2026-03-07T00:40:00Z", "user": {"id": "C029"}, "page": "/checkout", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000610", "event_type": "add_to_cart", "ts": "2026-03-04T08:57:00Z", "customer_id": "C127"}
+{"event_id": "EV-000611", "event_type": "checkout_start", "ts": "2026-03-03T12:06:00Z", "user": {"id": "C106"}, "page": "/packs/45l", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000612", "event_type": "checkout_start", "ts": "2026-03-05T10:40:00Z", "user": {"id": "C047"}, "page": "/boots"}
+{"event_id": "EV-000613", "event_type": "page_view", "ts": "2026-03-07T19:54:00Z", "customer_id": "C088"}
+{"event_id": "EV-000614", "event_type": "page_view", "ts": "2026-03-06T19:34:00Z", "customer_id": "C190", "page": "/"}
+{"event_id": "EV-000615", "event_type": "remove_from_cart", "ts": "2026-03-02T17:01:00Z", "user": {"id": "C040"}, "page": "/tents/2p", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000616", "event_type": "add_to_cart", "ts": "2026-03-02T10:08:00Z", "customer_id": "C178"}
+{"event_id": "EV-000617", "event_type": "search", "ts": "2026-03-05T06:05:00Z", "user": {"id": "C167"}, "page": "/packs/45l", "query": "45l pack"}
+{"event_id": "EV-000618", "event_type": "add_to_cart", "ts": "2026-03-05T06:16:00Z", "customer_id": "C184", "page": "/sale", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000619", "event_type": "checkout_start", "ts": "2026-03-03T06:46:00Z", "customer_id": "C115", "page": "/packs/45l"}
+{"event_id": "EV-000620", "event_type": "remove_from_cart", "ts": "2026-03-04T19:06:00Z", "customer_id": "C052", "page": "/tents/2p"}
+{"event_id": "EV-000621", "event_type": "add_to_cart", "ts": "2026-03-08T02:28:00Z", "user": {"id": "C131"}, "page": "/sale"}
+{"event_id": "EV-000622", "event_type": "search", "ts": "2026-03-08T20:33:00Z", "customer_id": "C030", "page": "/tents/2p", "query": "45l pack"}
+{"event_id": "EV-000623", "event_type": "add_to_cart", "ts": "2026-03-04T07:04:00Z", "user": {"id": "C096"}, "page": "/tents/2p", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000624", "event_type": "search", "ts": "2026-03-07T00:45:00Z", "customer_id": "C146", "page": "/boots", "query": "rain jacket"}
+{"event_id": "EV-000625", "event_type": "add_to_cart", "ts": "2026-03-06T06:33:00Z", "customer_id": "C072", "page": "/packs/45l", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000626", "event_type": "search", "ts": "2026-03-07T13:20:00Z", "customer_id": "C013", "query": "45l pack", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000627", "event_type": "checkout_start", "ts": "2026-03-05T03:07:00Z", "customer_id": "C084", "page": "/boots"}
+{"event_id": "EV-000628", "event_type": "remove_from_cart", "ts": "2026-03-04T00:41:00Z", "user": {"id": "C119"}, "page": "/sale", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000629", "event_type": "page_view", "ts": "2026-03-04T20:01:00Z", "customer_id": "C107", "page": "/tents/2p"}
+{"event_id": "EV-000630", "event_type": "remove_from_cart", "ts": "2026-03-04T12:05:00Z", "user": {"id": "C127"}, "page": "/sale"}
+{"event_id": "EV-000631", "event_type": "page_view", "ts": "2026-03-05T15:54:00Z", "user": {"id": "C159"}, "page": "/boots", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000632", "event_type": "checkout_start", "ts": "2026-03-03T03:20:00Z", "customer_id": "C023", "page": "/tents/2p"}
+{"event_id": "EV-000633", "event_type": "page_view", "ts": "2026-03-06T00:59:00Z", "customer_id": "C012", "page": "/tents/2p", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000634", "event_type": "checkout_start", "ts": "2026-03-07T19:50:00Z", "customer_id": "C044"}
+{"event_id": "EV-000635", "event_type": "add_to_cart", "ts": "2026-03-02T04:20:00Z", "user": {"id": "C106"}, "page": "/packs/45l", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000636", "event_type": "checkout_start", "ts": "2026-03-06T15:42:00Z", "user": {"id": "C083"}, "page": "/sale"}
+{"event_id": "EV-000637", "event_type": "page_view", "ts": "2026-03-04T09:45:00Z", "customer_id": "C063", "page": "/packs/45l"}
+{"event_id": "EV-000638", "event_type": "checkout_start", "ts": "2026-03-07T02:04:00Z", "customer_id": "C004", "page": "/sale"}
+{"event_id": "EV-000639", "event_type": "search", "ts": "2026-03-03T15:06:00Z", "customer_id": "C152", "page": "/checkout", "query": "wool socks"}
+{"event_id": "EV-000640", "event_type": "add_to_cart", "ts": "2026-03-04T22:29:00Z", "user": {"id": "C028"}}
+{"event_id": "EV-000641", "event_type": "remove_from_cart", "ts": "2026-03-04T12:28:00Z", "user": {"id": "C200"}, "page": "/"}
+{"event_id": "EV-000642", "event_type": "remove_from_cart", "ts": "2026-03-03T21:19:00Z", "user": {"id": "C038"}, "page": "/"}
+{"event_id": "EV-000643", "event_type": "checkout_start", "ts": "2026-03-03T00:57:00Z", "customer_id": "C008", "page": "/checkout"}
+{"event_id": "EV-000644", "event_type": "remove_from_cart", "ts": "2026-03-04T03:59:00Z", "customer_id": "C111", "page": "/sale"}
+{"event_id": "EV-000645", "event_type": "checkout_start", "ts": "2026-03-06T10:03:00Z", "customer_id": "C026", "page": "/sale"}
+{"event_id": "EV-000646", "event_type": "add_to_cart", "ts": "2026-03-05T06:18:00Z", "customer_id": "C153", "page": "/checkout"}
+{"event_id": "EV-000647", "event_type": "page_view", "ts": "2026-03-05T03:43:00Z", "user": {"id": "C029"}, "page": "/"}
+{"event_id": "EV-000648", "event_type": "page_view", "ts": "2026-03-06T08:15:00Z", "user": {"id": "C071"}, "page": "/checkout"}
+{"event_id": "EV-000649", "event_type": "page_view", "ts": "2026-03-05T12:25:00Z", "customer_id": "C178", "page": "/boots"}
+{"event_id": "EV-000650", "event_type": "search", "ts": "2026-03-03T11:40:00Z", "user": {"id": "C074"}, "page": "/", "query": "2p tent"}
+{"event_id": "EV-000651", "event_type": "search", "ts": "2026-03-07T19:30:00Z", "user": {"id": "C177"}, "page": "/tents/2p", "query": "rain jacket"}
+{"event_id": "EV-000652", "event_type": "page_view", "ts": "2026-03-04T14:09:00Z", "user": {"id": "C110"}, "page": "/boots"}
+{"event_id": "EV-000653", "event_type": "page_view", "ts": "2026-03-02T05:43:00Z", "user": {"id": "C122"}, "page": "/sale"}
+{"event_id": "EV-000654", "event_type": "page_view", "ts": "2026-03-05T03:02:00Z", "user": {"id": "C075"}}
+{"event_id": "EV-000655", "event_type": "page_view", "ts": "2026-03-03T04:49:00Z", "customer_id": "C189", "page": "/sale"}
+{"event_id": "EV-000656", "event_type": "checkout_start", "ts": "2026-03-06T08:42:00Z", "customer_id": "C118", "page": "/tents/2p"}
+{"event_id": "EV-000657", "event_type": "remove_from_cart", "ts": "2026-03-04T16:49:00Z", "customer_id": "C070", "page": "/packs/45l"}
+{"event_id": "EV-000658", "event_type": "add_to_cart", "ts": "2026-03-03T13:54:00Z", "user": {"id": "C037"}, "page": "/"}
+{"event_id": "EV-000659", "event_type": "search", "ts": "2026-03-07T22:27:00Z", "customer_id": "C023", "page": "/sale", "query": "rain jacket"}
+{"event_id": "EV-000660", "event_type": "checkout_start", "ts": "2026-03-07T21:34:00Z", "user": {"id": "C135"}, "page": "/packs/45l"}
+{"event_id": "EV-000661", "event_type": "checkout_start", "ts": "2026-03-04T12:37:00Z", "user": {"id": "C071"}, "page": "/"}
+{"event_id": "EV-000662", "event_type": "remove_from_cart", "ts": "2026-03-07T10:53:00Z", "customer_id": "C117", "page": "/tents/2p"}
+{"event_id": "EV-000663", "event_type": "add_to_cart", "ts": "2026-03-02T15:59:00Z", "customer_id": "C039", "page": "/tents/2p"}
+{"event_id": "EV-000664", "event_type": "checkout_start", "ts": "2026-03-07T05:19:00Z", "customer_id": "C076", "page": "/"}
+{"event_id": "EV-000665", "event_type": "page_view", "ts": "2026-03-08T18:07:00Z", "customer_id": "C002", "page": "/packs/45l"}
+{"event_id": "EV-000666", "event_type": "search", "ts": "2026-03-02T08:08:00Z", "user": {"id": "C129"}, "page": "/checkout", "query": "2p tent"}
+{"event_id": "EV-000667", "event_type": "add_to_cart", "ts": "2026-03-07T08:09:00Z", "customer_id": "C021", "page": "/"}
+{"event_id": "EV-000668", "event_type": "checkout_start", "ts": "2026-03-04T07:51:00Z", "customer_id": "C026"}
+{"event_id": "EV-000669", "event_type": "remove_from_cart", "ts": "2026-03-06T09:11:00Z", "customer_id": "C083", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000670", "event_type": "remove_from_cart", "ts": "2026-03-04T04:26:00Z", "customer_id": "C079", "page": "/checkout"}
+{"event_id": "EV-000671", "event_type": "checkout_start", "ts": "2026-03-05T17:11:00Z", "user": {"id": "C112"}, "page": "/checkout"}
+{"event_id": "EV-000672", "event_type": "search", "ts": "2026-03-04T16:59:00Z", "customer_id": "C110", "page": "/sale", "query": "45l pack", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000673", "event_type": "add_to_cart", "ts": "2026-03-08T13:05:00Z", "user": {"id": "C078"}, "page": "/checkout"}
+{"event_id": "EV-000674", "event_type": "remove_from_cart", "ts": "2026-03-03T19:34:00Z", "user": {"id": "C014"}, "page": "/sale", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000675", "event_type": "page_view", "ts": "2026-03-05T16:29:00Z", "customer_id": "C070"}
+{"event_id": "EV-000676", "event_type": "search", "ts": "2026-03-04T19:06:00Z", "user": {"id": "C177"}, "page": "/", "query": "rain jacket"}
+{"event_id": "EV-000677", "event_type": "page_view", "ts": "2026-03-07T16:47:00Z", "user": {"id": "C133"}, "page": "/packs/45l"}
+{"event_id": "EV-000678", "event_type": "add_to_cart", "ts": "2026-03-03T07:57:00Z", "customer_id": "C080", "page": "/"}
+{"event_id": "EV-000679", "event_type": "page_view", "ts": "2026-03-06T22:12:00Z", "customer_id": "C040", "page": "/"}
+{"event_id": "EV-000680", "event_type": "checkout_start", "ts": "2026-03-03T06:06:00Z", "customer_id": "C130", "page": "/"}
+{"event_id": "EV-000681", "event_type": "add_to_cart", "ts": "2026-03-04T12:30:00Z", "user": {"id": "C140"}, "page": "/checkout"}
+{"event_id": "EV-000682", "event_type": "page_view", "ts": "2026-03-08T21:39:00Z", "customer_id": "C163", "page": "/boots"}
+{"event_id": "EV-000683", "event_type": "remove_from_cart", "ts": "2026-03-07T07:10:00Z", "user": {"id": "C140"}, "page": "/sale"}
+{"event_id": "EV-000684", "event_type": "checkout_start", "ts": "2026-03-07T03:37:00Z", "customer_id": "C071", "page": "/packs/45l"}
+{"event_id": "EV-000685", "event_type": "checkout_start", "ts": "2026-03-05T13:52:00Z", "customer_id": "C073", "page": "/checkout"}
+{"event_id": "EV-000686", "event_type": "remove_from_cart", "ts": "2026-03-06T09:02:00Z", "customer_id": "C091"}
+{"event_id": "EV-000687", "event_type": "page_view", "ts": "2026-03-07T14:17:00Z", "user": {"id": "C092"}, "page": "/checkout"}
+{"event_id": "EV-000688", "event_type": "remove_from_cart", "ts": "2026-03-07T16:24:00Z", "customer_id": "C168", "page": "/packs/45l"}
+{"event_id": "EV-000689", "event_type": "add_to_cart", "ts": "2026-03-04T14:45:00Z", "customer_id": "C196", "page": "/sale", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000690", "event_type": "add_to_cart", "ts": "2026-03-05T15:38:00Z", "user": {"id": "C130"}, "page": "/checkout"}
+{"event_id": "EV-000691", "event_type": "remove_from_cart", "ts": "2026-03-07T10:37:00Z", "customer_id": "C159", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000692", "event_type": "add_to_cart", "ts": "2026-03-08T23:10:00Z", "customer_id": "C028", "page": "/packs/45l"}
+{"event_id": "EV-000693", "event_type": "add_to_cart", "ts": "2026-03-08T07:49:00Z", "customer_id": "C045", "page": "/sale"}
+{"event_id": "EV-000694", "event_type": "remove_from_cart", "ts": "2026-03-05T02:03:00Z", "customer_id": "C010", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000695", "event_type": "page_view", "ts": "2026-03-06T20:53:00Z", "user": {"id": "C083"}, "page": "/sale"}
+{"event_id": "EV-000696", "event_type": "add_to_cart", "ts": "2026-03-07T18:35:00Z", "customer_id": "C126", "page": "/tents/2p"}
+{"event_id": "EV-000697", "event_type": "remove_from_cart", "ts": "2026-03-07T05:27:00Z", "user": {"id": "C050"}, "page": "/"}
+{"event_id": "EV-000698", "event_type": "page_view", "ts": "2026-03-07T03:13:00Z", "user": {"id": "C002"}, "page": "/sale"}
+{"event_id": "EV-000699", "event_type": "add_to_cart", "ts": "2026-03-08T02:21:00Z", "user": {"id": "C187"}, "page": "/sale"}
+{"event_id": "EV-000700", "event_type": "checkout_start", "ts": "2026-03-03T18:52:00Z", "user": {"id": "C092"}, "page": "/checkout"}
+{"event_id": "EV-000701", "event_type": "checkout_start", "ts": "2026-03-08T02:28:00Z", "user": {"id": "C019"}, "page": "/boots"}
+{"event_id": "EV-000702", "event_type": "checkout_start", "ts": "2026-03-04T03:07:00Z", "customer_id": "C154", "page": "/"}
+{"event_id": "EV-000703", "event_type": "search", "ts": "2026-03-04T08:24:00Z", "customer_id": "C041", "query": "rain jacket"}
+{"event_id": "EV-000704", "event_type": "remove_from_cart", "ts": "2026-03-03T16:59:00Z", "user": {"id": "C103"}, "page": "/checkout"}
+{"event_id": "EV-000705", "event_type": "search", "ts": "2026-03-02T18:30:00Z", "user": {"id": "C009"}, "page": "/tents/2p", "query": "2p tent"}
+{"event_id": "EV-000706", "event_type": "add_to_cart", "ts": "2026-03-08T01:08:00Z", "user": {"id": "C188"}, "page": "/packs/45l"}
+{"event_id": "EV-000707", "event_type": "page_view", "ts": "2026-03-02T07:31:00Z", "user": {"id": "C145"}}
+{"event_id": "EV-000708", "event_type": "page_view", "ts": "2026-03-08T01:22:00Z", "user": {"id": "C154"}, "page": "/"}
+{"event_id": "EV-000709", "event_type": "page_view", "ts": "2026-03-05T04:17:00Z", "customer_id": "C128", "page": "/packs/45l"}
+{"event_id": "EV-000710", "event_type": "add_to_cart", "ts": "2026-03-05T09:50:00Z", "customer_id": "C015", "page": "/boots"}
+{"event_id": "EV-000711", "event_type": "page_view", "ts": "2026-03-08T12:43:00Z", "user": {"id": "C014"}, "page": "/sale"}
+{"event_id": "EV-000712", "event_type": "remove_from_cart", "ts": "2026-03-05T22:27:00Z", "customer_id": "C113", "page": "/checkout"}
+{"event_id": "EV-000713", "event_type": "search", "ts": "2026-03-04T11:12:00Z", "customer_id": "C015", "page": "/", "query": "rain jacket"}
+{"event_id": "EV-000714", "event_type": "page_view", "ts": "2026-03-07T17:36:00Z", "user": {"id": "C004"}}
+{"event_id": "EV-000715", "event_type": "add_to_cart", "ts": "2026-03-02T02:03:00Z", "customer_id": "C073", "page": "/tents/2p"}
+{"event_id": "EV-000716", "event_type": "remove_from_cart", "ts": "2026-03-03T09:08:00Z", "customer_id": "C169", "page": "/", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000717", "event_type": "search", "ts": "2026-03-05T22:47:00Z", "user": {"id": "C057"}, "page": "/tents/2p", "query": "wool socks"}
+{"event_id": "EV-000718", "event_type": "remove_from_cart", "ts": "2026-03-04T20:15:00Z", "user": {"id": "C082"}, "page": "/checkout", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000719", "event_type": "checkout_start", "ts": "2026-03-05T22:39:00Z", "customer_id": "C053"}
+{"event_id": "EV-000720", "event_type": "remove_from_cart", "ts": "2026-03-06T07:19:00Z", "customer_id": "C096", "page": "/boots", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000721", "event_type": "checkout_start", "ts": "2026-03-07T14:41:00Z", "user": {"id": "C006"}, "page": "/"}
+{"event_id": "EV-000722", "event_type": "page_view", "ts": "2026-03-06T12:19:00Z", "customer_id": "C157", "page": "/"}
+{"event_id": "EV-000723", "event_type": "add_to_cart", "ts": "2026-03-05T14:02:00Z", "customer_id": "C048", "page": "/checkout", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000724", "event_type": "search", "ts": "2026-03-02T17:48:00Z", "user": {"id": "C156"}, "page": "/tents/2p", "query": "wool socks"}
+{"event_id": "EV-000725", "event_type": "page_view", "ts": "2026-03-06T06:48:00Z", "customer_id": "C160", "page": "/sale"}
+{"event_id": "EV-000726", "event_type": "page_view", "ts": "2026-03-07T01:51:00Z", "user": {"id": "C185"}}
+{"event_id": "EV-000727", "event_type": "remove_from_cart", "ts": "2026-03-06T14:27:00Z", "user": {"id": "C197"}, "page": "/boots"}
+{"event_id": "EV-000728", "event_type": "add_to_cart", "ts": "2026-03-05T23:59:00Z", "customer_id": "C004", "page": "/packs/45l"}
+{"event_id": "EV-000729", "event_type": "remove_from_cart", "ts": "2026-03-02T07:49:00Z", "customer_id": "C147", "page": "/checkout"}
+{"event_id": "EV-000730", "event_type": "remove_from_cart", "ts": "2026-03-04T21:16:00Z", "customer_id": "C079", "page": "/tents/2p"}
+{"event_id": "EV-000731", "event_type": "checkout_start", "ts": "2026-03-08T05:28:00Z", "customer_id": "C003", "page": "/tents/2p"}
+{"event_id": "EV-000732", "event_type": "checkout_start", "ts": "2026-03-08T17:13:00Z", "customer_id": "C021", "page": "/checkout"}
+{"event_id": "EV-000733", "event_type": "search", "ts": "2026-03-02T14:11:00Z", "user": {"id": "C071"}, "page": "/sale", "query": "2p tent"}
+{"event_id": "EV-000734", "event_type": "remove_from_cart", "ts": "2026-03-03T04:55:00Z", "user": {"id": "C060"}, "page": "/"}
+{"event_id": "EV-000735", "event_type": "search", "ts": "2026-03-06T14:37:00Z", "customer_id": "C184", "page": "/packs/45l", "query": "wool socks"}
+{"event_id": "EV-000736", "event_type": "search", "ts": "2026-03-02T21:54:00Z", "user": {"id": "C012"}, "page": "/tents/2p", "query": "rain jacket", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000737", "event_type": "add_to_cart", "ts": "2026-03-02T16:04:00Z", "customer_id": "C147", "page": "/packs/45l"}
+{"event_id": "EV-000738", "event_type": "search", "ts": "2026-03-07T13:56:00Z", "customer_id": "C084", "page": "/tents/2p", "query": "wool socks"}
+{"event_id": "EV-000739", "event_type": "search", "ts": "2026-03-07T11:30:00Z", "user": {"id": "C042"}, "page": "/tents/2p", "query": "2p tent"}
+{"event_id": "EV-000740", "event_type": "add_to_cart", "ts": "2026-03-02T03:38:00Z", "user": {"id": "C131"}, "page": "/packs/45l"}
+{"event_id": "EV-000741", "event_type": "add_to_cart", "ts": "2026-03-06T22:22:00Z", "customer_id": "C150", "page": "/packs/45l"}
+{"event_id": "EV-000742", "event_type": "page_view", "ts": "2026-03-08T20:05:00Z", "user": {"id": "C058"}, "page": "/checkout"}
+{"event_id": "EV-000743", "event_type": "page_view", "ts": "2026-03-07T13:34:00Z", "user": {"id": "C136"}, "page": "/checkout"}
+{"event_id": "EV-000744", "event_type": "search", "ts": "2026-03-06T16:28:00Z", "customer_id": "C148", "page": "/boots", "query": "wool socks"}
+{"event_id": "EV-000745", "event_type": "checkout_start", "ts": "2026-03-08T11:14:00Z", "customer_id": "C030", "page": "/sale"}
+{"event_id": "EV-000746", "event_type": "search", "ts": "2026-03-05T11:05:00Z", "user": {"id": "C020"}, "query": "45l pack"}
+{"event_id": "EV-000747", "event_type": "remove_from_cart", "ts": "2026-03-05T13:14:00Z", "user": {"id": "C033"}}
+{"event_id": "EV-000748", "event_type": "add_to_cart", "ts": "2026-03-05T21:37:00Z", "user": {"id": "C074"}, "page": "/", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000749", "event_type": "checkout_start", "ts": "2026-03-06T04:36:00Z", "user": {"id": "C198"}, "page": "/boots"}
+{"event_id": "EV-000750", "event_type": "checkout_start", "ts": "2026-03-02T05:07:00Z", "customer_id": "C142", "page": "/sale"}
+{"event_id": "EV-000751", "event_type": "checkout_start", "ts": "2026-03-03T01:53:00Z", "customer_id": "C043", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000752", "event_type": "checkout_start", "ts": "2026-03-05T11:08:00Z", "user": {"id": "C062"}, "page": "/"}
+{"event_id": "EV-000753", "event_type": "remove_from_cart", "ts": "2026-03-08T10:37:00Z", "user": {"id": "C185"}, "page": "/packs/45l"}
+{"event_id": "EV-000754", "event_type": "checkout_start", "ts": "2026-03-05T13:40:00Z", "user": {"id": "C112"}, "page": "/sale"}
+{"event_id": "EV-000755", "event_type": "remove_from_cart", "ts": "2026-03-07T05:46:00Z", "user": {"id": "C131"}, "page": "/"}
+{"event_id": "EV-000756", "event_type": "checkout_start", "ts": "2026-03-04T21:41:00Z", "customer_id": "C113", "page": "/packs/45l"}
+{"event_id": "EV-000757", "event_type": "search", "ts": "2026-03-08T03:14:00Z", "customer_id": "C013", "page": "/checkout", "query": "45l pack"}
+{"event_id": "EV-000758", "event_type": "add_to_cart", "ts": "2026-03-05T10:48:00Z", "user": {"id": "C011"}}
+{"event_id": "EV-000759", "event_type": "remove_from_cart", "ts": "2026-03-07T06:27:00Z", "customer_id": "C158", "page": "/tents/2p"}
+{"event_id": "EV-000760", "event_type": "checkout_start", "ts": "2026-03-02T09:17:00Z", "customer_id": "C044", "page": "/tents/2p"}
+{"event_id": "EV-000761", "event_type": "add_to_cart", "ts": "2026-03-08T03:59:00Z", "user": {"id": "C037"}, "page": "/checkout"}
+{"event_id": "EV-000762", "event_type": "remove_from_cart", "ts": "2026-03-08T05:01:00Z", "user": {"id": "C139"}, "page": "/boots", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000763", "event_type": "remove_from_cart", "ts": "2026-03-04T06:18:00Z", "customer_id": "C114", "page": "/sale"}
+{"event_id": "EV-000764", "event_type": "page_view", "ts": "2026-03-02T22:45:00Z", "customer_id": "C111", "page": "/"}
+{"event_id": "EV-000765", "event_type": "page_view", "ts": "2026-03-04T23:42:00Z", "user": {"id": "C021"}, "page": "/boots"}
+{"event_id": "EV-000766", "event_type": "search", "ts": "2026-03-04T05:32:00Z", "customer_id": "C162", "page": "/packs/45l", "query": "rain jacket"}
+{"event_id": "EV-000767", "event_type": "page_view", "ts": "2026-03-04T01:27:00Z", "user": {"id": "C134"}, "page": "/checkout"}
+{"event_id": "EV-000768", "event_type": "page_view", "ts": "2026-03-07T01:40:00Z", "customer_id": "C151", "page": "/boots"}
+{"event_id": "EV-000769", "event_type": "checkout_start", "ts": "2026-03-04T15:09:00Z", "user": {"id": "C188"}, "page": "/boots"}
+{"event_id": "EV-000770", "event_type": "add_to_cart", "ts": "2026-03-02T16:54:00Z", "customer_id": "C018", "page": "/checkout"}
+{"event_id": "EV-000771", "event_type": "search", "ts": "2026-03-03T01:26:00Z", "user": {"id": "C162"}, "page": "/packs/45l", "query": "wool socks"}
+{"event_id": "EV-000772", "event_type": "search", "ts": "2026-03-07T05:56:00Z", "user": {"id": "C075"}, "page": "/sale", "query": "45l pack"}
+{"event_id": "EV-000773", "event_type": "page_view", "ts": "2026-03-06T15:18:00Z", "customer_id": "C194", "page": "/sale"}
+{"event_id": "EV-000774", "event_type": "checkout_start", "ts": "2026-03-04T07:42:00Z", "customer_id": "C119"}
+{"event_id": "EV-000775", "event_type": "add_to_cart", "ts": "2026-03-04T22:25:00Z", "user": {"id": "C124"}}
+{"event_id": "EV-000776", "event_type": "add_to_cart", "ts": "2026-03-06T13:43:00Z", "customer_id": "C069", "page": "/sale", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000777", "event_type": "checkout_start", "ts": "2026-03-04T21:20:00Z", "customer_id": "C114", "page": "/tents/2p"}
+{"event_id": "EV-000778", "event_type": "add_to_cart", "ts": "2026-03-04T15:46:00Z", "customer_id": "C012", "page": "/sale"}
+{"event_id": "EV-000779", "event_type": "page_view", "ts": "2026-03-03T17:13:00Z", "user": {"id": "C158"}, "page": "/boots"}
+{"event_id": "EV-000780", "event_type": "checkout_start", "ts": "2026-03-02T23:01:00Z", "customer_id": "C181", "page": "/tents/2p"}
+{"event_id": "EV-000781", "event_type": "page_view", "ts": "2026-03-06T02:41:00Z", "user": {"id": "C093"}, "page": "/boots"}
+{"event_id": "EV-000782", "event_type": "search", "ts": "2026-03-05T22:14:00Z", "user": {"id": "C096"}, "page": "/boots", "query": "2p tent"}
+{"event_id": "EV-000783", "event_type": "remove_from_cart", "ts": "2026-03-02T00:48:00Z", "customer_id": "C102", "page": "/"}
+{"event_id": "EV-000784", "event_type": "add_to_cart", "ts": "2026-03-04T00:14:00Z", "customer_id": "C192", "page": "/sale"}
+{"event_id": "EV-000785", "event_type": "search", "ts": "2026-03-03T23:56:00Z", "user": {"id": "C020"}, "page": "/packs/45l", "query": "45l pack", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000786", "event_type": "checkout_start", "ts": "2026-03-02T23:37:00Z", "customer_id": "C156"}
+{"event_id": "EV-000787", "event_type": "page_view", "ts": "2026-03-05T16:47:00Z", "customer_id": "C118", "page": "/tents/2p"}
+{"event_id": "EV-000788", "event_type": "search", "ts": "2026-03-06T15:24:00Z", "customer_id": "C057", "query": "wool socks"}
+{"event_id": "EV-000789", "event_type": "add_to_cart", "ts": "2026-03-07T17:32:00Z", "customer_id": "C128", "page": "/tents/2p"}
+{"event_id": "EV-000790", "event_type": "add_to_cart", "ts": "2026-03-07T03:28:00Z", "user": {"id": "C007"}, "page": "/boots"}
+{"event_id": "EV-000791", "event_type": "search", "ts": "2026-03-05T18:06:00Z", "customer_id": "C162", "query": "rain jacket"}
+{"event_id": "EV-000792", "event_type": "add_to_cart", "ts": "2026-03-03T15:37:00Z", "customer_id": "C104", "page": "/sale"}
+{"event_id": "EV-000793", "event_type": "add_to_cart", "ts": "2026-03-08T18:48:00Z", "customer_id": "C127", "page": "/tents/2p"}
+{"event_id": "EV-000794", "event_type": "search", "ts": "2026-03-08T04:02:00Z", "user": {"id": "C154"}, "page": "/", "query": "wool socks"}
+{"event_id": "EV-000795", "event_type": "checkout_start", "ts": "2026-03-08T17:50:00Z", "user": {"id": "C081"}}
+{"event_id": "EV-000796", "event_type": "remove_from_cart", "ts": "2026-03-05T22:30:00Z", "user": {"id": "C190"}, "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000797", "event_type": "checkout_start", "ts": "2026-03-05T22:04:00Z", "customer_id": "C004", "page": "/packs/45l", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000798", "event_type": "checkout_start", "ts": "2026-03-05T03:02:00Z", "customer_id": "C161"}
+{"event_id": "EV-000799", "event_type": "checkout_start", "ts": "2026-03-07T17:26:00Z", "customer_id": "C031", "page": "/tents/2p"}
+{"event_id": "EV-000800", "event_type": "search", "ts": "2026-03-07T08:33:00Z", "user": {"id": "C096"}, "page": "/boots", "query": "2p tent"}
+{"event_id": "EV-000801", "event_type": "remove_from_cart", "ts": "2026-03-07T06:51:00Z", "user": {"id": "C096"}, "page": "/tents/2p"}
+{"event_id": "EV-000802", "event_type": "add_to_cart", "ts": "2026-03-03T10:59:00Z", "customer_id": "C184", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000803", "event_type": "page_view", "ts": "2026-03-03T04:30:00Z", "user": {"id": "C002"}, "page": "/boots"}
+{"event_id": "EV-000804", "event_type": "search", "ts": "2026-03-02T17:29:00Z", "customer_id": "C160", "page": "/boots", "query": "rain jacket"}
+{"event_id": "EV-000805", "event_type": "page_view", "ts": "2026-03-06T07:22:00Z", "user": {"id": "C071"}, "page": "/sale"}
+{"event_id": "EV-000806", "event_type": "checkout_start", "ts": "2026-03-04T11:39:00Z", "user": {"id": "C144"}, "page": "/packs/45l"}
+{"event_id": "EV-000807", "event_type": "add_to_cart", "ts": "2026-03-06T04:06:00Z", "customer_id": "C068", "page": "/boots"}
+{"event_id": "EV-000808", "event_type": "checkout_start", "ts": "2026-03-06T20:49:00Z", "customer_id": "C198"}
+{"event_id": "EV-000809", "event_type": "remove_from_cart", "ts": "2026-03-08T23:55:00Z", "user": {"id": "C122"}, "page": "/"}
+{"event_id": "EV-000810", "event_type": "remove_from_cart", "ts": "2026-03-03T02:59:00Z", "customer_id": "C043", "page": "/"}
+{"event_id": "EV-000811", "event_type": "checkout_start", "ts": "2026-03-02T04:32:00Z", "customer_id": "C121", "page": "/checkout"}
+{"event_id": "EV-000812", "event_type": "checkout_start", "ts": "2026-03-03T17:25:00Z", "user": {"id": "C181"}, "page": "/tents/2p"}
+{"event_id": "EV-000813", "event_type": "remove_from_cart", "ts": "2026-03-04T16:05:00Z", "user": {"id": "C043"}}
+{"event_id": "EV-000814", "event_type": "checkout_start", "ts": "2026-03-07T04:53:00Z", "user": {"id": "C126"}, "page": "/tents/2p"}
+{"event_id": "EV-000815", "event_type": "search", "ts": "2026-03-06T13:41:00Z", "customer_id": "C094", "query": "wool socks"}
+{"event_id": "EV-000816", "event_type": "add_to_cart", "ts": "2026-03-03T19:35:00Z", "customer_id": "C046"}
+{"event_id": "EV-000817", "event_type": "remove_from_cart", "ts": "2026-03-03T14:23:00Z", "customer_id": "C151", "page": "/"}
+{"event_id": "EV-000818", "event_type": "page_view", "ts": "2026-03-04T16:58:00Z", "user": {"id": "C009"}, "page": "/packs/45l"}
+{"event_id": "EV-000819", "event_type": "search", "ts": "2026-03-02T22:45:00Z", "customer_id": "C015", "query": "rain jacket"}
+{"event_id": "EV-000820", "event_type": "checkout_start", "ts": "2026-03-05T19:40:00Z", "customer_id": "C122", "page": "/packs/45l"}
+{"event_id": "EV-000821", "event_type": "search", "ts": "2026-03-08T03:02:00Z", "customer_id": "C183", "page": "/packs/45l", "query": "2p tent"}
+{"event_id": "EV-000822", "event_type": "page_view", "ts": "2026-03-03T02:26:00Z", "customer_id": "C164", "page": "/tents/2p", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000823", "event_type": "remove_from_cart", "ts": "2026-03-08T06:41:00Z", "user": {"id": "C086"}}
+{"event_id": "EV-000824", "event_type": "remove_from_cart", "ts": "2026-03-04T22:10:00Z", "user": {"id": "C094"}, "page": "/packs/45l"}
+{"event_id": "EV-000825", "event_type": "page_view", "ts": "2026-03-08T21:42:00Z", "customer_id": "C195", "page": "/packs/45l"}
+{"event_id": "EV-000826", "event_type": "search", "ts": "2026-03-03T14:02:00Z", "user": {"id": "C177"}, "page": "/boots", "query": "rain jacket"}
+{"event_id": "EV-000827", "event_type": "search", "ts": "2026-03-06T11:07:00Z", "customer_id": "C179", "page": "/sale", "query": "rain jacket", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000828", "event_type": "add_to_cart", "ts": "2026-03-03T23:05:00Z", "customer_id": "C161"}
+{"event_id": "EV-000829", "event_type": "search", "ts": "2026-03-08T00:13:00Z", "customer_id": "C186", "query": "wool socks"}
+{"event_id": "EV-000830", "event_type": "add_to_cart", "ts": "2026-03-07T06:47:00Z", "customer_id": "C098", "page": "/boots"}
+{"event_id": "EV-000831", "event_type": "add_to_cart", "ts": "2026-03-06T10:26:00Z", "user": {"id": "C070"}}
+{"event_id": "EV-000832", "event_type": "checkout_start", "ts": "2026-03-04T08:44:00Z", "customer_id": "C126", "page": "/tents/2p"}
+{"event_id": "EV-000833", "event_type": "add_to_cart", "ts": "2026-03-07T16:28:00Z", "customer_id": "C150", "page": "/checkout"}
+{"event_id": "EV-000834", "event_type": "search", "ts": "2026-03-07T13:22:00Z", "customer_id": "C180", "query": "wool socks", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000835", "event_type": "search", "ts": "2026-03-04T06:29:00Z", "customer_id": "C030", "page": "/packs/45l", "query": "2p tent"}
+{"event_id": "EV-000836", "event_type": "search", "ts": "2026-03-05T18:20:00Z", "user": {"id": "C169"}, "page": "/", "query": "wool socks"}
+{"event_id": "EV-000837", "event_type": "page_view", "ts": "2026-03-07T11:55:00Z", "customer_id": "C122", "page": "/packs/45l"}
+{"event_id": "EV-000838", "event_type": "add_to_cart", "ts": "2026-03-03T11:19:00Z", "customer_id": "C048", "page": "/sale"}
+{"event_id": "EV-000839", "event_type": "checkout_start", "ts": "2026-03-05T18:36:00Z", "user": {"id": "C122"}}
+{"event_id": "EV-000840", "event_type": "checkout_start", "ts": "2026-03-04T19:21:00Z", "user": {"id": "C077"}, "page": "/boots"}
+{"event_id": "EV-000841", "event_type": "checkout_start", "ts": "2026-03-06T03:26:00Z", "user": {"id": "C148"}, "page": "/"}
+{"event_id": "EV-000842", "event_type": "remove_from_cart", "ts": "2026-03-03T09:56:00Z", "user": {"id": "C135"}, "page": "/checkout"}
+{"event_id": "EV-000843", "event_type": "page_view", "ts": "2026-03-03T21:21:00Z", "user": {"id": "C080"}, "page": "/boots"}
+{"event_id": "EV-000844", "event_type": "checkout_start", "ts": "2026-03-05T12:10:00Z", "customer_id": "C038", "page": "/boots"}
+{"event_id": "EV-000845", "event_type": "add_to_cart", "ts": "2026-03-02T05:15:00Z", "customer_id": "C186", "page": "/packs/45l"}
+{"event_id": "EV-000846", "event_type": "checkout_start", "ts": "2026-03-08T11:00:00Z", "customer_id": "C026", "page": "/packs/45l"}
+{"event_id": "EV-000847", "event_type": "checkout_start", "ts": "2026-03-03T15:42:00Z", "user": {"id": "C181"}, "page": "/"}
+{"event_id": "EV-000848", "event_type": "search", "ts": "2026-03-04T04:25:00Z", "user": {"id": "C173"}, "page": "/sale", "query": "45l pack"}
+{"event_id": "EV-000849", "event_type": "remove_from_cart", "ts": "2026-03-04T15:42:00Z", "customer_id": "C156", "page": "/boots"}
+{"event_id": "EV-000850", "event_type": "page_view", "ts": "2026-03-04T16:52:00Z", "user": {"id": "C193"}, "page": "/"}
+{"event_id": "EV-000851", "event_type": "page_view", "ts": "2026-03-03T15:12:00Z", "customer_id": "C112", "page": "/sale"}
+{"event_id": "EV-000852", "event_type": "search", "ts": "2026-03-05T04:18:00Z", "customer_id": "C124", "page": "/sale", "query": "2p tent"}
+{"event_id": "EV-000853", "event_type": "page_view", "ts": "2026-03-07T16:53:00Z", "customer_id": "C022", "page": "/packs/45l", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000854", "event_type": "search", "ts": "2026-03-08T00:10:00Z", "customer_id": "C130", "page": "/sale", "query": "rain jacket"}
+{"event_id": "EV-000855", "event_type": "page_view", "ts": "2026-03-07T12:27:00Z", "customer_id": "C067", "page": "/"}
+{"event_id": "EV-000856", "event_type": "search", "ts": "2026-03-08T14:32:00Z", "user": {"id": "C183"}, "page": "/checkout", "query": "wool socks", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000857", "event_type": "checkout_start", "ts": "2026-03-05T17:48:00Z", "user": {"id": "C021"}, "page": "/tents/2p"}
+{"event_id": "EV-000858", "event_type": "add_to_cart", "ts": "2026-03-07T18:16:00Z", "user": {"id": "C158"}, "page": "/sale"}
+{"event_id": "EV-000859", "event_type": "page_view", "ts": "2026-03-05T09:02:00Z", "user": {"id": "C118"}, "page": "/checkout"}
+{"event_id": "EV-000860", "event_type": "search", "ts": "2026-03-04T13:21:00Z", "user": {"id": "C007"}, "page": "/boots", "query": "wool socks"}
+{"event_id": "EV-000861", "event_type": "search", "ts": "2026-03-02T14:20:00Z", "user": {"id": "C153"}, "page": "/packs/45l", "query": "rain jacket"}
+{"event_id": "EV-000862", "event_type": "page_view", "ts": "2026-03-05T07:11:00Z", "user": {"id": "C033"}, "page": "/packs/45l"}
+{"event_id": "EV-000863", "event_type": "remove_from_cart", "ts": "2026-03-04T11:29:00Z", "customer_id": "C188"}
+{"event_id": "EV-000864", "event_type": "search", "ts": "2026-03-02T02:20:00Z", "customer_id": "C156", "query": "rain jacket"}
+{"event_id": "EV-000865", "event_type": "search", "ts": "2026-03-07T02:21:00Z", "customer_id": "C006", "page": "/packs/45l", "query": "wool socks"}
+{"event_id": "EV-000866", "event_type": "checkout_start", "ts": "2026-03-07T02:53:00Z", "user": {"id": "C050"}, "page": "/tents/2p"}
+{"event_id": "EV-000867", "event_type": "page_view", "ts": "2026-03-06T07:44:00Z", "customer_id": "C122", "page": "/sale"}
+{"event_id": "EV-000868", "event_type": "remove_from_cart", "ts": "2026-03-07T05:17:00Z", "user": {"id": "C155"}, "page": "/boots"}
+{"event_id": "EV-000869", "event_type": "add_to_cart", "ts": "2026-03-04T00:26:00Z", "customer_id": "C107", "page": "/tents/2p"}
+{"event_id": "EV-000870", "event_type": "page_view", "ts": "2026-03-06T20:20:00Z", "customer_id": "C005", "page": "/boots", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000871", "event_type": "checkout_start", "ts": "2026-03-07T22:38:00Z", "user": {"id": "C163"}, "page": "/checkout"}
+{"event_id": "EV-000872", "event_type": "search", "ts": "2026-03-06T00:21:00Z", "customer_id": "C114", "page": "/packs/45l", "query": "45l pack"}
+{"event_id": "EV-000873", "event_type": "checkout_start", "ts": "2026-03-07T05:43:00Z", "customer_id": "C009", "page": "/checkout"}
+{"event_id": "EV-000874", "event_type": "search", "ts": "2026-03-07T15:35:00Z", "customer_id": "C192", "query": "wool socks"}
+{"event_id": "EV-000875", "event_type": "checkout_start", "ts": "2026-03-08T10:28:00Z", "customer_id": "C160", "page": "/checkout"}
+{"event_id": "EV-000876", "event_type": "page_view", "ts": "2026-03-05T13:48:00Z", "user": {"id": "C073"}, "page": "/sale"}
+{"event_id": "EV-000877", "event_type": "checkout_start", "ts": "2026-03-05T17:08:00Z", "user": {"id": "C032"}, "page": "/boots"}
+{"event_id": "EV-000878", "event_type": "add_to_cart", "ts": "2026-03-02T18:18:00Z", "user": {"id": "C197"}, "page": "/packs/45l"}
+{"event_id": "EV-000879", "event_type": "add_to_cart", "ts": "2026-03-06T13:22:00Z", "customer_id": "C154", "page": "/tents/2p"}
+{"event_id": "EV-000880", "event_type": "search", "ts": "2026-03-07T21:40:00Z", "user": {"id": "C137"}, "page": "/sale", "query": "45l pack"}
+{"event_id": "EV-000881", "event_type": "add_to_cart", "ts": "2026-03-04T14:10:00Z", "customer_id": "C001", "page": "/tents/2p"}
+{"event_id": "EV-000882", "event_type": "page_view", "ts": "2026-03-07T05:43:00Z", "customer_id": "C168", "page": "/sale"}
+{"event_id": "EV-000883", "event_type": "add_to_cart", "ts": "2026-03-07T00:39:00Z", "customer_id": "C159", "page": "/"}
+{"event_id": "EV-000884", "event_type": "search", "ts": "2026-03-07T13:01:00Z", "user": {"id": "C043"}, "page": "/sale", "query": "rain jacket"}
+{"event_id": "EV-000885", "event_type": "checkout_start", "ts": "2026-03-02T23:38:00Z", "user": {"id": "C050"}}
+{"event_id": "EV-000886", "event_type": "add_to_cart", "ts": "2026-03-04T23:55:00Z", "customer_id": "C183"}
+{"event_id": "EV-000887", "event_type": "page_view", "ts": "2026-03-04T02:57:00Z", "customer_id": "C119", "page": "/packs/45l"}
+{"event_id": "EV-000888", "event_type": "remove_from_cart", "ts": "2026-03-03T05:29:00Z", "user": {"id": "C155"}}
+{"event_id": "EV-000889", "event_type": "page_view", "ts": "2026-03-03T07:29:00Z", "customer_id": "C009", "page": "/sale"}
+{"event_id": "EV-000890", "event_type": "checkout_start", "ts": "2026-03-05T12:04:00Z", "user": {"id": "C184"}, "page": "/packs/45l"}
+{"event_id": "EV-000891", "event_type": "page_view", "ts": "2026-03-07T17:45:00Z", "customer_id": "C186", "page": "/sale"}
+{"event_id": "EV-000892", "event_type": "checkout_start", "ts": "2026-03-07T01:23:00Z", "user": {"id": "C131"}, "page": "/sale"}
+{"event_id": "EV-000893", "event_type": "search", "ts": "2026-03-02T03:09:00Z", "user": {"id": "C149"}, "page": "/", "query": "2p tent"}
+{"event_id": "EV-000894", "event_type": "add_to_cart", "ts": "2026-03-07T10:09:00Z", "user": {"id": "C054"}, "page": "/tents/2p"}
+{"event_id": "EV-000895", "event_type": "checkout_start", "ts": "2026-03-02T14:57:00Z", "user": {"id": "C194"}, "page": "/tents/2p"}
+{"event_id": "EV-000896", "event_type": "search", "ts": "2026-03-04T14:44:00Z", "user": {"id": "C153"}, "page": "/boots", "query": "2p tent"}
+{"event_id": "EV-000897", "event_type": "search", "ts": "2026-03-02T07:56:00Z", "user": {"id": "C183"}, "page": "/packs/45l", "query": "2p tent"}
+{"event_id": "EV-000898", "event_type": "checkout_start", "ts": "2026-03-04T15:45:00Z", "user": {"id": "C040"}, "page": "/packs/45l", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000899", "event_type": "add_to_cart", "ts": "2026-03-08T12:16:00Z", "customer_id": "C055", "page": "/boots"}
+{"event_id": "EV-000900", "event_type": "remove_from_cart", "ts": "2026-03-04T11:46:00Z", "user": {"id": "C133"}, "page": "/checkout"}
+{"event_id": "EV-000901", "event_type": "remove_from_cart", "ts": "2026-03-04T20:09:00Z", "user": {"id": "C081"}, "page": "/sale"}
+{"event_id": "EV-000902", "event_type": "remove_from_cart", "ts": "2026-03-05T20:10:00Z", "customer_id": "C124", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000903", "event_type": "add_to_cart", "ts": "2026-03-04T07:19:00Z", "customer_id": "C072", "page": "/packs/45l"}
+{"event_id": "EV-000904", "event_type": "checkout_start", "ts": "2026-03-07T06:22:00Z", "customer_id": "C164"}
+{"event_id": "EV-000905", "event_type": "add_to_cart", "ts": "2026-03-08T16:57:00Z", "user": {"id": "C094"}, "page": "/sale"}
+{"event_id": "EV-000906", "event_type": "search", "ts": "2026-03-04T16:04:00Z", "user": {"id": "C137"}, "query": "rain jacket"}
+{"event_id": "EV-000907", "event_type": "remove_from_cart", "ts": "2026-03-02T14:36:00Z", "customer_id": "C066", "page": "/boots"}
+{"event_id": "EV-000908", "event_type": "checkout_start", "ts": "2026-03-07T07:14:00Z", "customer_id": "C156", "page": "/tents/2p", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000909", "event_type": "add_to_cart", "ts": "2026-03-07T02:57:00Z", "user": {"id": "C016"}, "page": "/boots"}
+{"event_id": "EV-000910", "event_type": "page_view", "ts": "2026-03-06T15:29:00Z", "user": {"id": "C014"}, "page": "/packs/45l", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000911", "event_type": "checkout_start", "ts": "2026-03-02T14:05:00Z", "customer_id": "C139", "page": "/checkout"}
+{"event_id": "EV-000912", "event_type": "checkout_start", "ts": "2026-03-06T00:37:00Z", "user": {"id": "C029"}, "page": "/sale"}
+{"event_id": "EV-000913", "event_type": "remove_from_cart", "ts": "2026-03-03T18:51:00Z", "user": {"id": "C001"}, "page": "/sale"}
+{"event_id": "EV-000914", "event_type": "search", "ts": "2026-03-05T20:11:00Z", "user": {"id": "C132"}, "page": "/packs/45l", "query": "wool socks"}
+{"event_id": "EV-000915", "event_type": "search", "ts": "2026-03-06T07:21:00Z", "user": {"id": "C129"}, "page": "/sale", "query": "rain jacket"}
+{"event_id": "EV-000916", "event_type": "search", "ts": "2026-03-03T15:00:00Z", "user": {"id": "C131"}, "page": "/boots", "query": "2p tent", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000917", "event_type": "checkout_start", "ts": "2026-03-07T09:06:00Z", "customer_id": "C176", "page": "/boots"}
+{"event_id": "EV-000918", "event_type": "search", "ts": "2026-03-02T07:13:00Z", "user": {"id": "C082"}, "page": "/sale", "query": "rain jacket"}
+{"event_id": "EV-000919", "event_type": "add_to_cart", "ts": "2026-03-06T06:36:00Z", "customer_id": "C050", "page": "/boots"}
+{"event_id": "EV-000920", "event_type": "search", "ts": "2026-03-06T21:10:00Z", "user": {"id": "C122"}, "page": "/sale", "query": "wool socks"}
+{"event_id": "EV-000921", "event_type": "search", "ts": "2026-03-04T15:59:00Z", "customer_id": "C079", "page": "/tents/2p", "query": "wool socks"}
+{"event_id": "EV-000922", "event_type": "checkout_start", "ts": "2026-03-05T18:25:00Z", "customer_id": "C104", "page": "/sale"}
+{"event_id": "EV-000923", "event_type": "search", "ts": "2026-03-08T04:29:00Z", "customer_id": "C181", "page": "/packs/45l", "query": "wool socks"}
+{"event_id": "EV-000924", "event_type": "checkout_start", "ts": "2026-03-04T00:20:00Z", "user": {"id": "C084"}, "page": "/packs/45l"}
+{"event_id": "EV-000925", "event_type": "checkout_start", "ts": "2026-03-03T19:32:00Z", "user": {"id": "C028"}, "page": "/boots"}
+{"event_id": "EV-000926", "event_type": "checkout_start", "ts": "2026-03-05T23:37:00Z", "user": {"id": "C012"}, "page": "/sale"}
+{"event_id": "EV-000927", "event_type": "search", "ts": "2026-03-07T15:15:00Z", "user": {"id": "C151"}, "page": "/", "query": "rain jacket"}
+{"event_id": "EV-000928", "event_type": "checkout_start", "ts": "2026-03-04T17:23:00Z", "user": {"id": "C029"}, "page": "/packs/45l", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000929", "event_type": "add_to_cart", "ts": "2026-03-08T04:55:00Z", "user": {"id": "C147"}, "page": "/"}
+{"event_id": "EV-000930", "event_type": "search", "ts": "2026-03-04T18:34:00Z", "user": {"id": "C075"}, "page": "/boots", "query": "rain jacket"}
+{"event_id": "EV-000931", "event_type": "search", "ts": "2026-03-07T22:47:00Z", "user": {"id": "C093"}, "query": "45l pack"}
+{"event_id": "EV-000932", "event_type": "checkout_start", "ts": "2026-03-03T05:20:00Z", "customer_id": "C093", "page": "/packs/45l"}
+{"event_id": "EV-000933", "event_type": "page_view", "ts": "2026-03-04T08:38:00Z", "customer_id": "C165", "page": "/sale"}
+{"event_id": "EV-000934", "event_type": "remove_from_cart", "ts": "2026-03-08T01:53:00Z", "customer_id": "C132", "page": "/checkout"}
+{"event_id": "EV-000935", "event_type": "search", "ts": "2026-03-02T16:55:00Z", "user": {"id": "C126"}, "page": "/tents/2p", "query": "rain jacket"}
+{"event_id": "EV-000936", "event_type": "page_view", "ts": "2026-03-06T02:35:00Z", "user": {"id": "C132"}, "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000937", "event_type": "page_view", "ts": "2026-03-06T20:12:00Z", "user": {"id": "C111"}}
+{"event_id": "EV-000938", "event_type": "search", "ts": "2026-03-07T04:41:00Z", "customer_id": "C166", "page": "/sale", "query": "45l pack"}
+{"event_id": "EV-000939", "event_type": "page_view", "ts": "2026-03-05T18:18:00Z", "user": {"id": "C100"}, "page": "/boots"}
+{"event_id": "EV-000940", "event_type": "add_to_cart", "ts": "2026-03-03T08:54:00Z", "user": {"id": "C197"}, "page": "/sale"}
+{"event_id": "EV-000941", "event_type": "search", "ts": "2026-03-03T18:59:00Z", "user": {"id": "C184"}, "query": "2p tent"}
+{"event_id": "EV-000942", "event_type": "add_to_cart", "ts": "2026-03-03T06:19:00Z", "customer_id": "C137", "page": "/"}
+{"event_id": "EV-000943", "event_type": "search", "ts": "2026-03-06T11:04:00Z", "user": {"id": "C059"}, "page": "/boots", "query": "wool socks"}
+{"event_id": "EV-000944", "event_type": "add_to_cart", "ts": "2026-03-04T07:59:00Z", "user": {"id": "C007"}, "page": "/sale", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000945", "event_type": "add_to_cart", "ts": "2026-03-02T14:55:00Z", "customer_id": "C115", "page": "/boots"}
+{"event_id": "EV-000946", "event_type": "page_view", "ts": "2026-03-05T18:52:00Z", "customer_id": "C045", "page": "/checkout"}
+{"event_id": "EV-000947", "event_type": "add_to_cart", "ts": "2026-03-02T05:48:00Z", "customer_id": "C126", "page": "/tents/2p"}
+{"event_id": "EV-000948", "event_type": "add_to_cart", "ts": "2026-03-04T13:12:00Z", "user": {"id": "C130"}, "page": "/tents/2p"}
+{"event_id": "EV-000949", "event_type": "checkout_start", "ts": "2026-03-05T00:00:00Z", "user": {"id": "C103"}, "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000950", "event_type": "search", "ts": "2026-03-04T02:27:00Z", "customer_id": "C180", "page": "/packs/45l", "query": "45l pack"}
+{"event_id": "EV-000951", "event_type": "search", "ts": "2026-03-02T08:46:00Z", "customer_id": "C064", "page": "/", "query": "2p tent"}
+{"event_id": "EV-000952", "event_type": "page_view", "ts": "2026-03-03T22:30:00Z", "customer_id": "C054"}
+{"event_id": "EV-000953", "event_type": "add_to_cart", "ts": "2026-03-04T19:26:00Z", "customer_id": "C045"}
+{"event_id": "EV-000954", "event_type": "search", "ts": "2026-03-07T21:11:00Z", "user": {"id": "C029"}, "page": "/", "query": "45l pack"}
+{"event_id": "EV-000955", "event_type": "search", "ts": "2026-03-05T20:23:00Z", "user": {"id": "C008"}, "page": "/tents/2p", "query": "rain jacket"}
+{"event_id": "EV-000956", "event_type": "add_to_cart", "ts": "2026-03-02T23:55:00Z", "user": {"id": "C012"}, "page": "/checkout"}
+{"event_id": "EV-000957", "event_type": "page_view", "ts": "2026-03-03T05:06:00Z", "customer_id": "C058", "page": "/", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000958", "event_type": "remove_from_cart", "ts": "2026-03-05T13:54:00Z", "customer_id": "C155", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000959", "event_type": "search", "ts": "2026-03-05T08:08:00Z", "user": {"id": "C094"}, "query": "rain jacket"}
+{"event_id": "EV-000960", "event_type": "add_to_cart", "ts": "2026-03-07T18:12:00Z", "customer_id": "C034", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000961", "event_type": "checkout_start", "ts": "2026-03-07T03:45:00Z", "customer_id": "C158", "page": "/boots"}
+{"event_id": "EV-000962", "event_type": "search", "ts": "2026-03-07T21:19:00Z", "user": {"id": "C119"}, "page": "/checkout", "query": "wool socks"}
+{"event_id": "EV-000963", "event_type": "search", "ts": "2026-03-03T10:27:00Z", "user": {"id": "C149"}, "page": "/", "query": "45l pack"}
+{"event_id": "EV-000964", "event_type": "page_view", "ts": "2026-03-08T06:11:00Z", "customer_id": "C009"}
+{"event_id": "EV-000965", "event_type": "remove_from_cart", "ts": "2026-03-05T10:00:00Z", "customer_id": "C089", "page": "/checkout"}
+{"event_id": "EV-000966", "event_type": "search", "ts": "2026-03-03T14:39:00Z", "user": {"id": "C031"}, "page": "/packs/45l", "query": "wool socks"}
+{"event_id": "EV-000967", "event_type": "checkout_start", "ts": "2026-03-03T08:21:00Z", "user": {"id": "C117"}, "page": "/packs/45l"}
+{"event_id": "EV-000968", "event_type": "page_view", "ts": "2026-03-08T16:16:00Z", "user": {"id": "C110"}, "page": "/checkout", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000969", "event_type": "remove_from_cart", "ts": "2026-03-05T03:07:00Z", "user": {"id": "C033"}}
+{"event_id": "EV-000970", "event_type": "remove_from_cart", "ts": "2026-03-05T17:05:00Z", "customer_id": "C131", "page": "/packs/45l"}
+{"event_id": "EV-000971", "event_type": "search", "ts": "2026-03-02T06:46:00Z", "user": {"id": "C200"}, "page": "/checkout", "query": "rain jacket"}
+{"event_id": "EV-000972", "event_type": "remove_from_cart", "ts": "2026-03-04T17:14:00Z", "customer_id": "C041", "page": "/boots"}
+{"event_id": "EV-000973", "event_type": "add_to_cart", "ts": "2026-03-08T19:14:00Z", "user": {"id": "C157"}, "page": "/boots"}
+{"event_id": "EV-000974", "event_type": "remove_from_cart", "ts": "2026-03-05T09:24:00Z", "user": {"id": "C122"}, "page": "/boots"}
+{"event_id": "EV-000975", "event_type": "search", "ts": "2026-03-04T00:04:00Z", "user": {"id": "C172"}, "page": "/packs/45l", "query": "rain jacket", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000976", "event_type": "add_to_cart", "ts": "2026-03-03T04:30:00Z", "user": {"id": "C063"}, "page": "/boots"}
+{"event_id": "EV-000977", "event_type": "add_to_cart", "ts": "2026-03-05T18:12:00Z", "user": {"id": "C019"}, "page": "/tents/2p", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000978", "event_type": "remove_from_cart", "ts": "2026-03-02T23:47:00Z", "user": {"id": "C039"}, "page": "/boots"}
+{"event_id": "EV-000979", "event_type": "page_view", "ts": "2026-03-08T10:00:00Z", "user": {"id": "C135"}, "page": "/packs/45l"}
+{"event_id": "EV-000980", "event_type": "search", "ts": "2026-03-03T21:28:00Z", "user": {"id": "C139"}, "page": "/sale", "query": "2p tent", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000981", "event_type": "search", "ts": "2026-03-04T01:24:00Z", "customer_id": "C120", "page": "/boots", "query": "45l pack"}
+{"event_id": "EV-000982", "event_type": "page_view", "ts": "2026-03-03T16:06:00Z", "user": {"id": "C155"}}
+{"event_id": "EV-000983", "event_type": "checkout_start", "ts": "2026-03-03T21:31:00Z", "customer_id": "C164", "page": "/tents/2p"}
+{"event_id": "EV-000984", "event_type": "search", "ts": "2026-03-07T08:57:00Z", "user": {"id": "C085"}, "page": "/tents/2p", "query": "wool socks", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-000985", "event_type": "remove_from_cart", "ts": "2026-03-07T15:15:00Z", "customer_id": "C152", "page": "/tents/2p", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000986", "event_type": "remove_from_cart", "ts": "2026-03-06T19:53:00Z", "customer_id": "C133"}
+{"event_id": "EV-000987", "event_type": "remove_from_cart", "ts": "2026-03-02T19:06:00Z", "user": {"id": "C165"}}
+{"event_id": "EV-000988", "event_type": "remove_from_cart", "ts": "2026-03-02T07:23:00Z", "user": {"id": "C155"}, "page": "/sale"}
+{"event_id": "EV-000989", "event_type": "checkout_start", "ts": "2026-03-02T11:41:00Z", "user": {"id": "C147"}, "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000990", "event_type": "checkout_start", "ts": "2026-03-08T20:47:00Z", "user": {"id": "C007"}, "page": "/boots", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-000991", "event_type": "checkout_start", "ts": "2026-03-02T09:58:00Z", "user": {"id": "C187"}, "page": "/tents/2p"}
+{"event_id": "EV-000992", "event_type": "add_to_cart", "ts": "2026-03-07T11:22:00Z", "customer_id": "C013", "page": "/packs/45l"}
+{"event_id": "EV-000993", "event_type": "remove_from_cart", "ts": "2026-03-04T05:13:00Z", "user": {"id": "C141"}, "page": "/packs/45l"}
+{"event_id": "EV-000994", "event_type": "checkout_start", "ts": "2026-03-04T05:54:00Z", "user": {"id": "C086"}, "page": "/checkout"}
+{"event_id": "EV-000995", "event_type": "search", "ts": "2026-03-08T07:20:00Z", "customer_id": "C185", "page": "/sale", "query": "wool socks"}
+{"event_id": "EV-000996", "event_type": "checkout_start", "ts": "2026-03-07T05:48:00Z", "customer_id": "C182", "page": "/tents/2p"}
+{"event_id": "EV-000997", "event_type": "search", "ts": "2026-03-04T05:10:00Z", "customer_id": "C049", "page": "/checkout", "query": "wool socks"}
+{"event_id": "EV-000998", "event_type": "remove_from_cart", "ts": "2026-03-06T05:25:00Z", "user": {"id": "C051"}, "page": "/packs/45l"}
+{"event_id": "EV-000999", "event_type": "search", "ts": "2026-03-07T12:54:00Z", "customer_id": "C088", "page": "/sale", "query": "2p tent"}
+{"event_id": "EV-001000", "event_type": "search", "ts": "2026-03-02T23:52:00Z", "user": {"id": "C022"}, "page": "/boots", "query": "45l pack"}
+{"event_id": "EV-001001", "event_type": "search", "ts": "2026-03-03T17:09:00Z", "customer_id": "C058", "query": "2p tent"}
+{"event_id": "EV-001002", "event_type": "add_to_cart", "ts": "2026-03-03T14:41:00Z", "customer_id": "C076", "page": "/"}
+{"event_id": "EV-001003", "event_type": "remove_from_cart", "ts": "2026-03-05T14:26:00Z", "user": {"id": "C146"}, "page": "/boots"}
+{"event_id": "EV-001004", "event_type": "remove_from_cart", "ts": "2026-03-06T12:40:00Z", "user": {"id": "C100"}, "page": "/packs/45l"}
+{"event_id": "EV-001005", "event_type": "search", "ts": "2026-03-04T08:27:00Z", "customer_id": "C061", "page": "/tents/2p", "query": "rain jacket"}
+{"event_id": "EV-001006", "event_type": "add_to_cart", "ts": "2026-03-03T10:55:00Z", "user": {"id": "C149"}, "page": "/checkout"}
+{"event_id": "EV-001007", "event_type": "remove_from_cart", "ts": "2026-03-06T10:06:00Z", "customer_id": "C090", "page": "/packs/45l"}
+{"event_id": "EV-001008", "event_type": "search", "ts": "2026-03-08T07:29:00Z", "user": {"id": "C014"}, "page": "/sale", "query": "45l pack"}
+{"event_id": "EV-001009", "event_type": "remove_from_cart", "ts": "2026-03-02T05:01:00Z", "customer_id": "C167", "page": "/tents/2p"}
+{"event_id": "EV-001010", "event_type": "search", "ts": "2026-03-07T04:04:00Z", "customer_id": "C185", "page": "/tents/2p", "query": "rain jacket"}
+{"event_id": "EV-001011", "event_type": "add_to_cart", "ts": "2026-03-05T13:45:00Z", "user": {"id": "C056"}, "page": "/tents/2p"}
+{"event_id": "EV-001012", "event_type": "add_to_cart", "ts": "2026-03-07T09:21:00Z", "user": {"id": "C131"}, "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-001013", "event_type": "page_view", "ts": "2026-03-08T00:39:00Z", "user": {"id": "C092"}, "page": "/"}
+{"event_id": "EV-001014", "event_type": "add_to_cart", "ts": "2026-03-06T13:46:00Z", "user": {"id": "C064"}}
+{"event_id": "EV-001015", "event_type": "checkout_start", "ts": "2026-03-03T05:01:00Z", "user": {"id": "C085"}, "page": "/sale"}
+{"event_id": "EV-001016", "event_type": "checkout_start", "ts": "2026-03-07T12:51:00Z", "customer_id": "C122", "page": "/tents/2p"}
+{"event_id": "EV-001017", "event_type": "checkout_start", "ts": "2026-03-04T11:11:00Z", "user": {"id": "C128"}, "page": "/tents/2p"}
+{"event_id": "EV-001018", "event_type": "page_view", "ts": "2026-03-03T11:41:00Z", "customer_id": "C193", "page": "/tents/2p", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-001019", "event_type": "search", "ts": "2026-03-06T01:43:00Z", "customer_id": "C001", "query": "rain jacket", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-001020", "event_type": "remove_from_cart", "ts": "2026-03-04T00:51:00Z", "user": {"id": "C018"}}
+{"event_id": "EV-001021", "event_type": "remove_from_cart", "ts": "2026-03-06T15:11:00Z", "customer_id": "C089", "page": "/packs/45l"}
+{"event_id": "EV-001022", "event_type": "add_to_cart", "ts": "2026-03-06T11:36:00Z", "user": {"id": "C181"}}
+{"event_id": "EV-001023", "event_type": "checkout_start", "ts": "2026-03-06T04:52:00Z", "customer_id": "C010"}
+{"event_id": "EV-001024", "event_type": "search", "ts": "2026-03-08T03:51:00Z", "user": {"id": "C028"}, "page": "/boots", "query": "2p tent"}
+{"event_id": "EV-001025", "event_type": "add_to_cart", "ts": "2026-03-05T06:38:00Z", "user": {"id": "C087"}}
+{"event_id": "EV-001026", "event_type": "checkout_start", "ts": "2026-03-06T12:50:00Z", "user": {"id": "C172"}, "page": "/tents/2p"}
+{"event_id": "EV-001027", "event_type": "checkout_start", "ts": "2026-03-03T07:52:00Z", "customer_id": "C104", "page": "/"}
+{"event_id": "EV-001028", "event_type": "remove_from_cart", "ts": "2026-03-05T21:45:00Z", "customer_id": "C134", "page": "/packs/45l"}
+{"event_id": "EV-001029", "event_type": "remove_from_cart", "ts": "2026-03-06T18:36:00Z", "user": {"id": "C194"}, "page": "/boots"}
+{"event_id": "EV-001030", "event_type": "add_to_cart", "ts": "2026-03-03T14:48:00Z", "customer_id": "C161", "page": "/sale"}
+{"event_id": "EV-001031", "event_type": "page_view", "ts": "2026-03-05T00:31:00Z", "customer_id": "C124", "page": "/tents/2p"}
+{"event_id": "EV-001032", "event_type": "page_view", "ts": "2026-03-08T09:49:00Z", "user": {"id": "C011"}, "page": "/"}
+{"event_id": "EV-001033", "event_type": "remove_from_cart", "ts": "2026-03-06T23:57:00Z", "user": {"id": "C165"}, "page": "/"}
+{"event_id": "EV-001034", "event_type": "add_to_cart", "ts": "2026-03-02T09:24:00Z", "customer_id": "C138", "page": "/packs/45l"}
+{"event_id": "EV-001035", "event_type": "add_to_cart", "ts": "2026-03-07T16:33:00Z", "user": {"id": "C175"}, "page": "/boots", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-001036", "event_type": "page_view", "ts": "2026-03-03T22:20:00Z", "user": {"id": "C127"}, "page": "/packs/45l"}
+{"event_id": "EV-001037", "event_type": "page_view", "ts": "2026-03-02T12:13:00Z", "user": {"id": "C002"}}
+{"event_id": "EV-001038", "event_type": "checkout_start", "ts": "2026-03-08T10:11:00Z", "user": {"id": "C096"}}
+{"event_id": "EV-001039", "event_type": "add_to_cart", "ts": "2026-03-03T04:38:00Z", "user": {"id": "C067"}}
+{"event_id": "EV-001040", "event_type": "search", "ts": "2026-03-06T22:55:00Z", "customer_id": "C168", "page": "/tents/2p", "query": "45l pack"}
+{"event_id": "EV-001041", "event_type": "search", "ts": "2026-03-05T13:24:00Z", "user": {"id": "C049"}, "query": "45l pack"}
+{"event_id": "EV-001042", "event_type": "checkout_start", "ts": "2026-03-02T20:44:00Z", "customer_id": "C197", "page": "/packs/45l"}
+{"event_id": "EV-001043", "event_type": "page_view", "ts": "2026-03-02T20:07:00Z", "customer_id": "C126", "page": "/checkout"}
+{"event_id": "EV-001044", "event_type": "checkout_start", "ts": "2026-03-07T08:43:00Z", "customer_id": "C074", "page": "/checkout"}
+{"event_id": "EV-001045", "event_type": "add_to_cart", "ts": "2026-03-08T03:25:00Z", "user": {"id": "C143"}}
+{"event_id": "EV-001046", "event_type": "checkout_start", "ts": "2026-03-06T01:30:00Z", "customer_id": "C059", "page": "/sale"}
+{"event_id": "EV-001047", "event_type": "page_view", "ts": "2026-03-08T22:51:00Z", "customer_id": "C158", "page": "/packs/45l", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-001048", "event_type": "add_to_cart", "ts": "2026-03-07T16:49:00Z", "user": {"id": "C186"}, "page": "/checkout", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-001049", "event_type": "add_to_cart", "ts": "2026-03-04T08:58:00Z", "customer_id": "C052", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-001050", "event_type": "page_view", "ts": "2026-03-03T09:32:00Z", "customer_id": "C161", "page": "/packs/45l"}
+{"event_id": "EV-001051", "event_type": "add_to_cart", "ts": "2026-03-02T14:04:00Z", "user": {"id": "C074"}, "page": "/boots"}
+{"event_id": "EV-001052", "event_type": "page_view", "ts": "2026-03-04T01:07:00Z", "customer_id": "C137", "page": "/packs/45l"}
+{"event_id": "EV-001053", "event_type": "add_to_cart", "ts": "2026-03-04T11:02:00Z", "user": {"id": "C176"}, "page": "/sale", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-001054", "event_type": "remove_from_cart", "ts": "2026-03-08T12:49:00Z", "customer_id": "C058", "page": "/"}
+{"event_id": "EV-001055", "event_type": "checkout_start", "ts": "2026-03-02T00:41:00Z", "user": {"id": "C166"}, "page": "/packs/45l"}
+{"event_id": "EV-001056", "event_type": "checkout_start", "ts": "2026-03-05T23:15:00Z", "user": {"id": "C089"}}
+{"event_id": "EV-001057", "event_type": "remove_from_cart", "ts": "2026-03-05T04:29:00Z", "user": {"id": "C058"}, "page": "/packs/45l"}
+{"event_id": "EV-001058", "event_type": "add_to_cart", "ts": "2026-03-05T08:56:00Z", "customer_id": "C006", "page": "/tents/2p", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-001059", "event_type": "remove_from_cart", "ts": "2026-03-05T22:56:00Z", "user": {"id": "C103"}, "page": "/packs/45l"}
+{"event_id": "EV-001060", "event_type": "checkout_start", "ts": "2026-03-05T13:56:00Z", "customer_id": "C116", "page": "/sale"}
+{"event_id": "EV-001061", "event_type": "checkout_start", "ts": "2026-03-04T10:42:00Z", "customer_id": "C136", "page": "/boots"}
+{"event_id": "EV-001062", "event_type": "remove_from_cart", "ts": "2026-03-06T06:55:00Z", "customer_id": "C119", "page": "/sale"}
+{"event_id": "EV-001063", "event_type": "add_to_cart", "ts": "2026-03-04T06:25:00Z", "customer_id": "C139", "page": "/tents/2p"}
+{"event_id": "EV-001064", "event_type": "page_view", "ts": "2026-03-08T19:26:00Z", "customer_id": "C087", "page": "/boots"}
+{"event_id": "EV-001065", "event_type": "checkout_start", "ts": "2026-03-06T13:11:00Z", "customer_id": "C053", "page": "/packs/45l"}
+{"event_id": "EV-001066", "event_type": "add_to_cart", "ts": "2026-03-07T21:36:00Z", "user": {"id": "C148"}, "page": "/boots"}
+{"event_id": "EV-001067", "event_type": "add_to_cart", "ts": "2026-03-04T14:15:00Z", "user": {"id": "C125"}, "page": "/checkout"}
+{"event_id": "EV-001068", "event_type": "page_view", "ts": "2026-03-07T01:43:00Z", "user": {"id": "C022"}, "page": "/"}
+{"event_id": "EV-001069", "event_type": "search", "ts": "2026-03-02T10:59:00Z", "customer_id": "C039", "query": "wool socks"}
+{"event_id": "EV-001070", "event_type": "search", "ts": "2026-03-04T19:58:00Z", "user": {"id": "C115"}, "page": "/packs/45l", "query": "2p tent"}
+{"event_id": "EV-001071", "event_type": "add_to_cart", "ts": "2026-03-02T17:10:00Z", "customer_id": "C031", "page": "/checkout"}
+{"event_id": "EV-001072", "event_type": "checkout_start", "ts": "2026-03-06T17:40:00Z", "user": {"id": "C072"}, "page": "/boots"}
+{"event_id": "EV-001073", "event_type": "checkout_start", "ts": "2026-03-07T04:58:00Z", "customer_id": "C011", "page": "/sale"}
+{"event_id": "EV-001074", "event_type": "page_view", "ts": "2026-03-05T05:49:00Z", "user": {"id": "C093"}}
+{"event_id": "EV-001075", "event_type": "page_view", "ts": "2026-03-03T14:57:00Z", "user": {"id": "C172"}, "page": "/tents/2p"}
+{"event_id": "EV-001076", "event_type": "add_to_cart", "ts": "2026-03-04T02:11:00Z", "user": {"id": "C174"}, "page": "/boots", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-001077", "event_type": "page_view", "ts": "2026-03-07T10:18:00Z", "customer_id": "C127", "page": "/checkout"}
+{"event_id": "EV-001078", "event_type": "search", "ts": "2026-03-03T11:54:00Z", "customer_id": "C072", "query": "rain jacket"}
+{"event_id": "EV-001079", "event_type": "add_to_cart", "ts": "2026-03-03T01:41:00Z", "user": {"id": "C068"}, "page": "/sale"}
+{"event_id": "EV-001080", "event_type": "checkout_start", "ts": "2026-03-04T23:48:00Z", "user": {"id": "C086"}, "page": "/boots"}
+{"event_id": "EV-001081", "event_type": "remove_from_cart", "ts": "2026-03-06T00:47:00Z", "customer_id": "C098", "page": "/sale"}
+{"event_id": "EV-001082", "event_type": "search", "ts": "2026-03-02T22:43:00Z", "user": {"id": "C086"}, "page": "/checkout", "query": "45l pack"}
+{"event_id": "EV-001083", "event_type": "search", "ts": "2026-03-04T04:22:00Z", "user": {"id": "C126"}, "page": "/", "query": "45l pack"}
+{"event_id": "EV-001084", "event_type": "search", "ts": "2026-03-02T21:58:00Z", "user": {"id": "C030"}, "page": "/boots", "query": "rain jacket"}
+{"event_id": "EV-001085", "event_type": "add_to_cart", "ts": "2026-03-03T11:04:00Z", "user": {"id": "C061"}, "page": "/", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-001086", "event_type": "remove_from_cart", "ts": "2026-03-07T10:55:00Z", "customer_id": "C150", "page": "/sale"}
+{"event_id": "EV-001087", "event_type": "remove_from_cart", "ts": "2026-03-04T21:06:00Z", "customer_id": "C181", "page": "/packs/45l"}
+{"event_id": "EV-001088", "event_type": "page_view", "ts": "2026-03-03T02:45:00Z", "customer_id": "C176", "page": "/"}
+{"event_id": "EV-001089", "event_type": "remove_from_cart", "ts": "2026-03-05T10:40:00Z", "customer_id": "C051", "page": "/sale"}
+{"event_id": "EV-001090", "event_type": "remove_from_cart", "ts": "2026-03-03T15:18:00Z", "user": {"id": "C016"}, "page": "/checkout", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-001091", "event_type": "remove_from_cart", "ts": "2026-03-03T08:09:00Z", "user": {"id": "C049"}, "page": "/packs/45l"}
+{"event_id": "EV-001092", "event_type": "search", "ts": "2026-03-03T05:54:00Z", "user": {"id": "C059"}, "page": "/packs/45l", "query": "wool socks"}
+{"event_id": "EV-001093", "event_type": "add_to_cart", "ts": "2026-03-06T20:18:00Z", "customer_id": "C089", "page": "/checkout", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-001094", "event_type": "page_view", "ts": "2026-03-04T05:04:00Z", "customer_id": "C089", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-001095", "event_type": "checkout_start", "ts": "2026-03-02T21:48:00Z", "customer_id": "C191", "page": "/tents/2p"}
+{"event_id": "EV-001096", "event_type": "remove_from_cart", "ts": "2026-03-04T22:43:00Z", "user": {"id": "C017"}, "page": "/packs/45l"}
+{"event_id": "EV-001097", "event_type": "checkout_start", "ts": "2026-03-05T11:47:00Z", "customer_id": "C077", "page": "/tents/2p"}
+{"event_id": "EV-001098", "event_type": "remove_from_cart", "ts": "2026-03-07T06:14:00Z", "customer_id": "C177", "page": "/sale"}
+{"event_id": "EV-001099", "event_type": "checkout_start", "ts": "2026-03-04T12:29:00Z", "customer_id": "C037", "page": "/sale"}
+{"event_id": "EV-001100", "event_type": "search", "ts": "2026-03-02T04:50:00Z", "customer_id": "C162", "page": "/tents/2p", "query": "rain jacket"}
+{"event_id": "EV-001101", "event_type": "add_to_cart", "ts": "2026-03-08T21:57:00Z", "customer_id": "C048", "page": "/"}
+{"event_id": "EV-001102", "event_type": "add_to_cart", "ts": "2026-03-03T08:21:00Z", "customer_id": "C101", "page": "/checkout"}
+{"event_id": "EV-001103", "event_type": "checkout_start", "ts": "2026-03-03T15:38:00Z", "customer_id": "C041", "page": "/packs/45l", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-001104", "event_type": "checkout_start", "ts": "2026-03-02T10:45:00Z", "user": {"id": "C037"}, "page": "/sale"}
+{"event_id": "EV-001105", "event_type": "search", "ts": "2026-03-05T15:00:00Z", "user": {"id": "C087"}, "page": "/packs/45l", "query": "45l pack"}
+{"event_id": "EV-001106", "event_type": "search", "ts": "2026-03-06T04:33:00Z", "customer_id": "C096", "query": "2p tent"}
+{"event_id": "EV-001107", "event_type": "checkout_start", "ts": "2026-03-05T02:01:00Z", "customer_id": "C064", "page": "/tents/2p"}
+{"event_id": "EV-001108", "event_type": "checkout_start", "ts": "2026-03-08T10:40:00Z", "user": {"id": "C143"}, "page": "/tents/2p"}
+{"event_id": "EV-001109", "event_type": "remove_from_cart", "ts": "2026-03-03T10:50:00Z", "user": {"id": "C059"}, "page": "/checkout"}
+{"event_id": "EV-001110", "event_type": "remove_from_cart", "ts": "2026-03-08T07:31:00Z", "customer_id": "C005", "page": "/"}
+{"event_id": "EV-001111", "event_type": "page_view", "ts": "2026-03-03T19:20:00Z", "user": {"id": "C119"}, "page": "/packs/45l"}
+{"event_id": "EV-001112", "event_type": "add_to_cart", "ts": "2026-03-05T12:49:00Z", "user": {"id": "C071"}, "page": "/tents/2p"}
+{"event_id": "EV-001113", "event_type": "add_to_cart", "ts": "2026-03-02T15:15:00Z", "user": {"id": "C084"}, "page": "/checkout"}
+{"event_id": "EV-001114", "event_type": "checkout_start", "ts": "2026-03-03T08:20:00Z", "user": {"id": "C155"}}
+{"event_id": "EV-001115", "event_type": "remove_from_cart", "ts": "2026-03-08T20:12:00Z", "user": {"id": "C076"}, "page": "/packs/45l"}
+{"event_id": "EV-001116", "event_type": "add_to_cart", "ts": "2026-03-06T16:18:00Z", "user": {"id": "C109"}, "page": "/"}
+{"event_id": "EV-001117", "event_type": "page_view", "ts": "2026-03-03T04:18:00Z", "customer_id": "C165", "page": "/"}
+{"event_id": "EV-001118", "event_type": "checkout_start", "ts": "2026-03-08T04:28:00Z", "user": {"id": "C153"}, "page": "/tents/2p", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-001119", "event_type": "remove_from_cart", "ts": "2026-03-05T08:12:00Z", "customer_id": "C042", "page": "/tents/2p"}
+{"event_id": "EV-001120", "event_type": "search", "ts": "2026-03-02T01:55:00Z", "user": {"id": "C095"}, "page": "/packs/45l", "query": "45l pack"}
+{"event_id": "EV-001121", "event_type": "search", "ts": "2026-03-07T13:41:00Z", "customer_id": "C084", "page": "/", "query": "wool socks"}
+{"event_id": "EV-001122", "event_type": "remove_from_cart", "ts": "2026-03-08T18:02:00Z", "customer_id": "C184", "page": "/sale", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-001123", "event_type": "remove_from_cart", "ts": "2026-03-03T04:06:00Z", "customer_id": "C183", "page": "/tents/2p"}
+{"event_id": "EV-001124", "event_type": "search", "ts": "2026-03-04T02:26:00Z", "user": {"id": "C127"}, "page": "/", "query": "45l pack"}
+{"event_id": "EV-001125", "event_type": "remove_from_cart", "ts": "2026-03-05T22:09:00Z", "user": {"id": "C054"}, "page": "/"}
+{"event_id": "EV-001126", "event_type": "add_to_cart", "ts": "2026-03-08T08:14:00Z", "customer_id": "C175", "page": "/"}
+{"event_id": "EV-001127", "event_type": "page_view", "ts": "2026-03-07T07:30:00Z", "customer_id": "C195", "page": "/boots"}
+{"event_id": "EV-001128", "event_type": "search", "ts": "2026-03-03T16:20:00Z", "customer_id": "C163", "page": "/", "query": "wool socks"}
+{"event_id": "EV-001129", "event_type": "checkout_start", "ts": "2026-03-07T22:44:00Z", "user": {"id": "C011"}, "page": "/"}
+{"event_id": "EV-001130", "event_type": "search", "ts": "2026-03-06T15:00:00Z", "user": {"id": "C149"}, "query": "2p tent"}
+{"event_id": "EV-001131", "event_type": "remove_from_cart", "ts": "2026-03-03T17:00:00Z", "customer_id": "C143", "page": "/sale"}
+{"event_id": "EV-001132", "event_type": "search", "ts": "2026-03-03T19:16:00Z", "customer_id": "C067", "page": "/packs/45l", "query": "wool socks"}
+{"event_id": "EV-001133", "event_type": "remove_from_cart", "ts": "2026-03-05T19:41:00Z", "user": {"id": "C053"}, "page": "/"}
+{"event_id": "EV-001134", "event_type": "add_to_cart", "ts": "2026-03-02T23:59:00Z", "customer_id": "C146", "page": "/tents/2p"}
+{"event_id": "EV-001135", "event_type": "remove_from_cart", "ts": "2026-03-07T06:56:00Z", "user": {"id": "C093"}, "page": "/packs/45l"}
+{"event_id": "EV-001136", "event_type": "remove_from_cart", "ts": "2026-03-06T08:13:00Z", "customer_id": "C004", "page": "/boots"}
+{"event_id": "EV-001137", "event_type": "checkout_start", "ts": "2026-03-03T15:46:00Z", "user": {"id": "C118"}}
+{"event_id": "EV-001138", "event_type": "remove_from_cart", "ts": "2026-03-03T15:30:00Z", "user": {"id": "C171"}}
+{"event_id": "EV-001139", "event_type": "page_view", "ts": "2026-03-06T03:56:00Z", "user": {"id": "C159"}, "page": "/"}
+{"event_id": "EV-001140", "event_type": "checkout_start", "ts": "2026-03-02T09:28:00Z", "user": {"id": "C041"}, "page": "/tents/2p"}
+{"event_id": "EV-001141", "event_type": "search", "ts": "2026-03-03T13:47:00Z", "customer_id": "C107", "page": "/tents/2p", "query": "rain jacket"}
+{"event_id": "EV-001142", "event_type": "checkout_start", "ts": "2026-03-04T04:16:00Z", "user": {"id": "C053"}, "page": "/packs/45l"}
+{"event_id": "EV-001143", "event_type": "checkout_start", "ts": "2026-03-07T00:56:00Z", "customer_id": "C029", "page": "/boots"}
+{"event_id": "EV-001144", "event_type": "search", "ts": "2026-03-06T22:35:00Z", "customer_id": "C180", "page": "/", "query": "2p tent"}
+{"event_id": "EV-001145", "event_type": "page_view", "ts": "2026-03-05T21:24:00Z", "customer_id": "C111"}
+{"event_id": "EV-001146", "event_type": "page_view", "ts": "2026-03-02T18:57:00Z", "user": {"id": "C198"}}
+{"event_id": "EV-001147", "event_type": "search", "ts": "2026-03-07T15:12:00Z", "customer_id": "C070", "query": "2p tent"}
+{"event_id": "EV-001148", "event_type": "page_view", "ts": "2026-03-05T00:41:00Z", "user": {"id": "C112"}, "page": "/packs/45l"}
+{"event_id": "EV-001149", "event_type": "page_view", "ts": "2026-03-03T22:54:00Z", "customer_id": "C023", "page": "/sale"}
+{"event_id": "EV-001150", "event_type": "search", "ts": "2026-03-06T05:23:00Z", "user": {"id": "C139"}, "page": "/packs/45l", "query": "wool socks"}
+{"event_id": "EV-001151", "event_type": "checkout_start", "ts": "2026-03-06T12:23:00Z", "user": {"id": "C197"}, "page": "/packs/45l"}
+{"event_id": "EV-001152", "event_type": "checkout_start", "ts": "2026-03-05T21:34:00Z", "customer_id": "C111", "page": "/tents/2p"}
+{"event_id": "EV-001153", "event_type": "checkout_start", "ts": "2026-03-04T11:41:00Z", "customer_id": "C139"}
+{"event_id": "EV-001154", "event_type": "add_to_cart", "ts": "2026-03-02T10:32:00Z", "user": {"id": "C139"}, "page": "/packs/45l"}
+{"event_id": "EV-001155", "event_type": "add_to_cart", "ts": "2026-03-08T18:08:00Z", "user": {"id": "C102"}, "page": "/sale"}
+{"event_id": "EV-001156", "event_type": "remove_from_cart", "ts": "2026-03-06T17:02:00Z", "customer_id": "C002", "page": "/checkout"}
+{"event_id": "EV-001157", "event_type": "search", "ts": "2026-03-03T23:14:00Z", "customer_id": "C084", "page": "/tents/2p", "query": "45l pack"}
+{"event_id": "EV-001158", "event_type": "remove_from_cart", "ts": "2026-03-08T12:14:00Z", "customer_id": "C105", "page": "/"}
+{"event_id": "EV-001159", "event_type": "add_to_cart", "ts": "2026-03-07T14:09:00Z", "user": {"id": "C130"}, "page": "/sale", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-001160", "event_type": "checkout_start", "ts": "2026-03-07T09:15:00Z", "customer_id": "C054", "page": "/"}
+{"event_id": "EV-001161", "event_type": "page_view", "ts": "2026-03-03T00:01:00Z", "customer_id": "C054", "page": "/packs/45l", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-001162", "event_type": "search", "ts": "2026-03-05T03:27:00Z", "user": {"id": "C003"}, "page": "/tents/2p", "query": "wool socks"}
+{"event_id": "EV-001163", "event_type": "remove_from_cart", "ts": "2026-03-03T09:27:00Z", "user": {"id": "C123"}, "page": "/checkout", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-001164", "event_type": "search", "ts": "2026-03-02T15:20:00Z", "customer_id": "C180", "page": "/sale", "query": "rain jacket"}
+{"event_id": "EV-001165", "event_type": "search", "ts": "2026-03-06T19:56:00Z", "user": {"id": "C176"}, "page": "/", "query": "45l pack", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-001166", "event_type": "search", "ts": "2026-03-08T02:30:00Z", "user": {"id": "C022"}, "page": "/packs/45l", "query": "rain jacket"}
+{"event_id": "EV-001167", "event_type": "remove_from_cart", "ts": "2026-03-07T10:15:00Z", "user": {"id": "C009"}, "page": "/checkout"}
+{"event_id": "EV-001168", "event_type": "remove_from_cart", "ts": "2026-03-08T14:13:00Z", "customer_id": "C003", "page": "/checkout"}
+{"event_id": "EV-001169", "event_type": "remove_from_cart", "ts": "2026-03-08T00:59:00Z", "customer_id": "C129", "page": "/tents/2p"}
+{"event_id": "EV-001170", "event_type": "page_view", "ts": "2026-03-05T17:41:00Z", "customer_id": "C031", "page": "/sale"}
+{"event_id": "EV-001171", "event_type": "add_to_cart", "ts": "2026-03-05T09:54:00Z", "customer_id": "C154", "page": "/"}
+{"event_id": "EV-001172", "event_type": "checkout_start", "ts": "2026-03-08T02:12:00Z", "customer_id": "C002", "page": "/packs/45l"}
+{"event_id": "EV-001173", "event_type": "search", "ts": "2026-03-03T12:02:00Z", "customer_id": "C088", "query": "45l pack"}
+{"event_id": "EV-001174", "event_type": "page_view", "ts": "2026-03-05T22:58:00Z", "customer_id": "C036", "page": "/checkout"}
+{"event_id": "EV-001175", "event_type": "checkout_start", "ts": "2026-03-05T15:23:00Z", "customer_id": "C135"}
+{"event_id": "EV-001176", "event_type": "checkout_start", "ts": "2026-03-06T03:26:00Z", "customer_id": "C112", "page": "/sale", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-001177", "event_type": "checkout_start", "ts": "2026-03-04T21:22:00Z", "customer_id": "C063"}
+{"event_id": "EV-001178", "event_type": "page_view", "ts": "2026-03-02T00:10:00Z", "user": {"id": "C171"}, "page": "/packs/45l"}
+{"event_id": "EV-001179", "event_type": "checkout_start", "ts": "2026-03-04T17:16:00Z", "customer_id": "C169", "page": "/sale", "experiment": {"name": "checkout_v2", "variant": "a"}}
+{"event_id": "EV-001180", "event_type": "search", "ts": "2026-03-03T06:09:00Z", "customer_id": "C180", "page": "/tents/2p", "query": "rain jacket"}
+{"event_id": "EV-001181", "event_type": "search", "ts": "2026-03-02T03:33:00Z", "user": {"id": "C003"}, "page": "/boots", "query": "wool socks"}
+{"event_id": "EV-001182", "event_type": "add_to_cart", "ts": "2026-03-08T15:51:00Z", "customer_id": "C122", "page": "/boots", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-001183", "event_type": "remove_from_cart", "ts": "2026-03-06T20:40:00Z", "user": {"id": "C019"}, "page": "/boots"}
+{"event_id": "EV-001184", "event_type": "remove_from_cart", "ts": "2026-03-03T02:30:00Z", "user": {"id": "C019"}, "page": "/boots"}
+{"event_id": "EV-001185", "event_type": "add_to_cart", "ts": "2026-03-05T20:23:00Z", "user": {"id": "C105"}, "page": "/sale", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-001186", "event_type": "add_to_cart", "ts": "2026-03-08T12:01:00Z", "user": {"id": "C096"}, "page": "/checkout"}
+{"event_id": "EV-001187", "event_type": "add_to_cart", "ts": "2026-03-03T23:58:00Z", "customer_id": "C131"}
+{"event_id": "EV-001188", "event_type": "add_to_cart", "ts": "2026-03-08T20:10:00Z", "user": {"id": "C074"}, "page": "/"}
+{"event_id": "EV-001189", "event_type": "remove_from_cart", "ts": "2026-03-02T13:04:00Z", "customer_id": "C199", "page": "/packs/45l", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-001190", "event_type": "search", "ts": "2026-03-05T08:29:00Z", "customer_id": "C138", "page": "/tents/2p", "query": "45l pack"}
+{"event_id": "EV-001191", "event_type": "remove_from_cart", "ts": "2026-03-05T22:37:00Z", "user": {"id": "C155"}, "page": "/checkout", "experiment": {"name": "checkout_v2", "variant": "b"}}
+{"event_id": "EV-001192", "event_type": "search", "ts": "2026-03-02T22:31:00Z", "user": {"id": "C158"}, "page": "/tents/2p", "query": "wool socks"}
+{"event_id": "EV-001193", "event_type": "remove_from_cart", "ts": "2026-03-08T09:38:00Z", "customer_id": "C083"}
+{"event_id": "EV-001194", "event_type": "search", "ts": "2026-03-04T09:12:00Z", "user": {"id": "C106"}, "page": "/checkout", "query": "45l pack"}
+{"event_id": "EV-001195", "event_type": "add_to_cart", "ts": "2026-03-03T19:56:00Z", "user": {"id": "C177"}, "page": "/packs/45l"}
+{"event_id": "EV-001196", "event_type": "search", "ts": "2026-03-07T17:35:00Z", "customer_id": "C119", "page": "/boots", "query": "rain jacket"}
+{"event_id": "EV-001197", "event_type": "add_to_cart", "ts": "2026-03-04T20:15:00Z", "user": {"id": "C163"}}
+{"event_id": "EV-001198", "event_type": "add_to_cart", "ts": "2026-03-07T15:23:00Z", "customer_id": "C184", "page": "/checkout"}
+{"event_id": "EV-001199", "event_type": "remove_from_cart", "ts": "2026-03-04T04:16:00Z", "customer_id": "C032"}

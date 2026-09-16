@@ -1,0 +1,17 @@
+# Shell scripts must keep LF endings whatever the host git is configured to do.
+# Git on Windows checks out CRLF by default, and bash in the Linux container then
+# treats the trailing \r as part of the last token on each line. Verified failures
+# without this file, on a checkout made with core.autocrlf=true:
+#
+#   .devcontainer/welcome.sh        syntax error: unexpected end of file
+#                                   (runs on every attach via postAttachCommand)
+#   infra/generate-sas-tokens.sh    set: pipefail: invalid option name
+#                                   (dies on line 9, before doing anything)
+* text=auto eol=lf
+*.sh text eol=lf
+
+# Notebooks are JSON; normalising them is fine and keeps diffs sane.
+*.ipynb text eol=lf
+
+# The committed synthetic dataset. Never touch these.
+*.parquet binary

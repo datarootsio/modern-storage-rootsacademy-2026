@@ -1,0 +1,5 @@
+{
+  "partitionToWriteStats": {"2026/03/11": []},
+  "operationType": "UPSERT",
+  "compacted": false
+}

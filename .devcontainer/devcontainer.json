@@ -1,0 +1,45 @@
+{
+  "name": "NorthTrail Lakehouse Workshop",
+  "build": {
+    "dockerfile": "Dockerfile",
+    // The repo root, not .devcontainer/. Dev Containers defaults the build
+    // context to the Dockerfile's own folder, which puts pyproject.toml,
+    // uv.lock and exercises/_shared/ out of reach of the COPY lines.
+    "context": ".."
+  },
+
+  // Advisory, but worth declaring: Spark starts a JVM, and if Docker Desktop is
+  // capped at 2 GB the failure is "Java gateway process exited before sending
+  // its port number", which points nowhere near the actual cause.
+  "hostRequirements": {
+    "memory": "4gb",
+    "storage": "32gb"
+  },
+
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "ms-toolsai.jupyter"
+      ],
+      "settings": {
+        "python.defaultInterpreterPath": "/opt/venv/bin/python"
+      }
+    }
+  },
+
+  // Puts exercises/_shared on the import path, so every notebook can do
+  // `from northtrail import get_spark` regardless of which folder it sits in.
+  "remoteEnv": {
+    "PYTHONPATH": "${containerWorkspaceFolder}/exercises/_shared"
+  },
+
+  // The bind-mounted workspace is often owned by a different UID than the
+  // container's vscode user, which makes git refuse with "dubious ownership".
+  // Nobody needs git in here, but the error shows up in the source control
+  // panel and looks like something is broken.
+  "postCreateCommand": "git config --global --add safe.directory ${containerWorkspaceFolder}",
+
+  "postAttachCommand": "bash .devcontainer/welcome.sh",
+  "remoteUser": "vscode"
+}

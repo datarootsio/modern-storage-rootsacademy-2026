@@ -1,0 +1,17 @@
+{
+  "partitionToWriteStats": {
+    "2026/03/11": [
+      {
+        "fileId": "a1b2c3d4-0e5f-4a6b-8c7d-9e0f1a2b3c4d-0",
+        "path": "2026/03/11/a1b2c3d4-0e5f-4a6b-8c7d-9e0f1a2b3c4d-0_0-29-1234_20260311091500.parquet",
+        "numWrites": 402,
+        "numInserts": 402,
+        "numUpdateWrites": 0,
+        "numDeletes": 0,
+        "totalWriteBytes": 41233
+      }
+    ]
+  },
+  "operationType": "BULK_INSERT",
+  "compacted": false
+}

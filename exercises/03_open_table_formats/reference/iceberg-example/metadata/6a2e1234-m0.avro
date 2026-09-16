@@ -1,0 +1,10 @@
+<< binary Avro -- shown as text so you can see what sits here >>
+
+This is a "manifest": one row per data file, with column-level statistics.
+
+  status  file_path                            record_count  lower_bounds     upper_bounds
+  ADDED   data/00003-3-8f1c.parquet             400          amount=4.12      amount=795.22
+  EXISTING data/00001-1-2b7d.parquet            0            ...              ...
+  DELETED data/00002-2-9a4e.parquet             2            amount=0.01      amount=0.01
+
+The statistics are why Iceberg can skip files without reading them.
