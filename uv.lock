@@ -678,7 +678,7 @@ wheels = [
 
 [[package]]
 name = "jupyterlab"
-version = "4.3.8"
+version = "4.5.10"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "async-lru" },
@@ -694,10 +694,11 @@ dependencies = [
     { name = "setuptools" },
     { name = "tornado" },
     { name = "traitlets" },
+    { name = "typing-extensions" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/c1/8e/9d3d91a0492be047167850419e43ba72e7950145ba2ff60824366bcae50f/jupyterlab-4.3.8.tar.gz", hash = "sha256:2ffd0e7b82786dba54743f4d1646130642ed81cb9e52f0a31e79416f6e5ba2e7", size = 21826824, upload-time = "2025-06-24T16:49:34.005Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/74/24/621aa20ec0d2fe72f52095bda0fc1be7738ac21aabe4129ff623140d5cdf/jupyterlab-4.5.10.tar.gz", hash = "sha256:77e8d80b78be59b2eaba2154562e21caa6e79c2f1281d6f486584f7144ee2f47", size = 23998879, upload-time = "2026-07-21T12:43:27.324Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/e6/15/ef346ab227f161cba2dcffe3ffeb8b4e4d2630600408f8276945d49fc868/jupyterlab-4.3.8-py3-none-any.whl", hash = "sha256:8c6451ef224a18b457975fd52010e45a7aef58b719dfb242c5f253e0e48ea047", size = 11682103, upload-time = "2025-06-24T16:49:28.459Z" },
+    { url = "https://files.pythonhosted.org/packages/9f/c9/940f95f17ee4e413ad252bf8d4f2ee9a341f18cfeda87775fef3d7847321/jupyterlab-4.5.10-py3-none-any.whl", hash = "sha256:5967ca61e692e67a2f30b5a2b901c941dc6ce56c0b0e357bc6d34fed5ec095f6", size = 12452502, upload-time = "2026-07-21T12:43:23.542Z" },
 ]
 
 [[package]]
@@ -872,7 +873,7 @@ requires-dist = [
     { name = "delta-spark", specifier = "==4.0.1" },
     { name = "duckdb", specifier = "==1.1.3" },
     { name = "jupyter", specifier = "==1.1.1" },
-    { name = "notebook", specifier = "==7.3.2" },
+    { name = "notebook", specifier = "==7.5.6" },
     { name = "pyspark", specifier = "==4.0.1" },
     { name = "python-dotenv", specifier = "==1.0.1" },
 ]
@@ -882,7 +883,7 @@ dev = [{ name = "pyarrow", specifier = "==18.1.0" }]
 
 [[package]]
 name = "notebook"
-version = "7.3.2"
+version = "7.5.6"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "jupyter-server" },
@@ -891,9 +892,9 @@ dependencies = [
     { name = "notebook-shim" },
     { name = "tornado" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/ea/04/ac488379d5afef43402b3fb4be2857db1a09804fecf98b9b714c741b225b/notebook-7.3.2.tar.gz", hash = "sha256:705e83a1785f45b383bf3ee13cb76680b92d24f56fb0c7d2136fe1d850cd3ca8", size = 12781804, upload-time = "2024-12-21T08:40:20.857Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/2a/c2/cf59bd2e6f2c8b976b52477e3e53bf6f97bc714ed046a51821afb428eaee/notebook-7.5.6.tar.gz", hash = "sha256:621174aade80108f0020b0f00738000b215f75fa3cd90771ad7aa0f24536a4e1", size = 14170814, upload-time = "2026-04-30T11:46:26.613Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/22/9b/76e50ee18f183ea5fe1784a9eeaa50f2c71802e4740d6e959592b0993298/notebook-7.3.2-py3-none-any.whl", hash = "sha256:e5f85fc59b69d3618d73cf27544418193ff8e8058d5bf61d315ce4f473556288", size = 13163630, upload-time = "2024-12-21T08:40:14.762Z" },
+    { url = "https://files.pythonhosted.org/packages/e9/d6/1fd0646b9bbd9efbb0b8ae21b2325fbef515769a5621c03e31d8eb8da587/notebook-7.5.6-py3-none-any.whl", hash = "sha256:4dde3f8fb55fa8fb7946d58c6e869ce9baf46d00fc070664f62604569d0faca0", size = 14581730, upload-time = "2026-04-30T11:46:22.342Z" },
 ]
 
 [[package]]
